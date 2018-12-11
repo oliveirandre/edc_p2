@@ -1,0 +1,17 @@
+#Listagem de todos os jogos
+SELECT ?itemLabel
+WHERE
+{
+  ?item wdt:P31 wd:Q7889.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+#Listagem de todos os jogos com genre publisher data de publish e consola
+SELECT ?itemLabel ?genreLabel ?publisherLabel ?dateLabel ?consoleLabel ?reviewScore WHERE {
+  ?item wdt:P31 wd:Q7889.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  OPTIONAL { ?item wdt:P136 ?genre;
+                   wdt:P123 ?publisher;
+                   wdt:P577 ?date;
+                   wdt:P400 ?console}
+}
