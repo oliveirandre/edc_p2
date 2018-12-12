@@ -1,0 +1,1127 @@
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Arsenal " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Arsenal" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Emirates Stadium " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "60361" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.555" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.108611" .
+<http://stadiums.org/London> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/team> "Aston Villa " .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/FDCOUK> "Aston Villa" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/name> "Villa Park " .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/capacity> "42785" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/latitude> "52.509167" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/longitude> "-1.884722" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/team> "Blackburn Rovers " .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/FDCOUK> "Blackburn" .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/name> "Ewood Park " .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/capacity> "31154" .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/latitude> "53.728611" .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/longitude> "-2.489167" .
+<http://stadiums.org/Blackburn> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/team> "Bolton Wanderers " .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/FDCOUK> "Bolton" .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/name> "Reebok Stadium " .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/capacity> "28100" .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/latitude> "53.580556" .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/longitude> "-2.535556" .
+<http://stadiums.org/Bolton> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Chelsea " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Chelsea" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Stamford Bridge " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "42449" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.481667" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.191111" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/team> "Everton " .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/FDCOUK> "Everton" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/name> "Goodison Park " .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/capacity> "40157" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/latitude> "53.438889" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/longitude> "-2.966389" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Fulham " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Fulham" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Craven Cottage " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "25700" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.475" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.221667" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/team> "Liverpool " .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/FDCOUK> "Liverpool" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/name> "Anfield " .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/capacity> "45276" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/latitude> "53.430819" .
+<http://stadiums.org/Liverpool> <http://stadiums.org/pred/longitude> "-2.960828" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/team> "Manchester City " .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/FDCOUK> "Man City" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/name> "Etihad Stadium" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/capacity> "47405" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/latitude> "53.482989" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/longitude> "-2.200292" .
+<http://stadiums.org/Manchester> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/team> "Manchester United " .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/FDCOUK> "Man United" .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/name> "Old Trafford " .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/capacity> "75811" .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/latitude> "53.463056" .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/longitude> "-2.291389" .
+<http://stadiums.org/Stretford> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/team> "Newcastle United " .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/FDCOUK> "Newcastle" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/name> "Sports Direct Arena" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/capacity> "52409" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/latitude> "54.975556" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/longitude> "-1.621667" .
+<http://stadiums.org/Newcastle> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/team> "Norwich City " .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/FDCOUK> "Norwich" .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/name> "Carrow Road " .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/capacity> "27010" .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/latitude> "52.622128" .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/longitude> "1.308653" .
+<http://stadiums.org/Norwich> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Queens Park Rangers " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "QPR" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Loftus Road " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "18439" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.509167" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.232222" .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/team> "Stoke City " .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/FDCOUK> "Stoke" .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/name> "Britannia Stadium " .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/capacity> "27740" .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/latitude> "52.988333" .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/longitude> "-2.175556" .
+<http://stadiums.org/Stoke> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/team> "Sunderland " .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/FDCOUK> "Sunderland" .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/name> "Stadium of Light " .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/capacity> "48707" .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/latitude> "54.9144" .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/longitude> "-1.3882" .
+<http://stadiums.org/Sunderland> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/team> "Swansea City " .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/FDCOUK> "Swansea" .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/name> "Liberty Stadium " .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/capacity> "20520" .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/latitude> "51.6422" .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/longitude> "-3.9351" .
+<http://stadiums.org/Swansea> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Tottenham Hotspur " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Tottenham" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "White Hart Lane " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "36230" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.603333" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.065833" .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/team> "West Bromwich Albion " .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/FDCOUK> "West Brom" .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/name> "The Hawthorns " .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/capacity> "27877" .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/latitude> "52.509167" .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/longitude> "-1.963889" .
+<http://stadiums.org/West+Bromwich> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/team> "Wigan Athletic " .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/FDCOUK> "Wigan" .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/name> "DW Stadium " .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/capacity> "25133" .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/latitude> "53.547778" .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/longitude> "-2.653889" .
+<http://stadiums.org/Wigan> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/team> "Wolverhampton Wanderers " .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/FDCOUK> "Wolves" .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/name> "Molineux Stadium " .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/capacity> "27828" .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/latitude> "52.590278" .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/longitude> "-2.130278" .
+<http://stadiums.org/Wolverhampton> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/team> "Barnsley " .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/FDCOUK> "Barnsley" .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/name> "Oakwell " .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/capacity> "23009" .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/latitude> "53.552222" .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/longitude> "-1.4675" .
+<http://stadiums.org/Barnsley> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/team> "Birmingham City " .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/FDCOUK> "Birmingham" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/name> "St Andrew's Stadium " .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/capacity> "30079" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/latitude> "52.475703" .
+<http://stadiums.org/Birmingham> <http://stadiums.org/pred/longitude> "-1.868189" .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/team> "Blackpool " .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/FDCOUK> "Blackpool" .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/name> "Bloomfield Road " .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/capacity> "16220" .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/latitude> "53.804722" .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/longitude> "-3.048056" .
+<http://stadiums.org/Blackpool> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/team> "Brighton & Hove Albion " .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/FDCOUK> "Brighton" .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/name> "American Express Community Stadium " .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/capacity> "22374" .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/latitude> "50.861822" .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/longitude> "-0.083278" .
+<http://stadiums.org/Brighton> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/team> "Bristol City " .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/FDCOUK> "Bristol City" .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/name> "Ashton Gate " .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/capacity> "21497" .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/latitude> "51.44" .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/longitude> "-2.620278" .
+<http://stadiums.org/Bristol> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/team> "Burnley " .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/FDCOUK> "Burnley" .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/name> "Turf Moor " .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/capacity> "22546" .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/latitude> "53.789167" .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/longitude> "-2.230278" .
+<http://stadiums.org/Burnley> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/team> "Cardiff City " .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/FDCOUK> "Cardiff" .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/name> "Cardiff City Stadium " .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/capacity> "26828" .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/latitude> "51.472778" .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/longitude> "-3.203056" .
+<http://stadiums.org/Cardiff> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/team> "Coventry City " .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/FDCOUK> "Coventry" .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/name> "Ricoh Arena " .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/capacity> "32609" .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/latitude> "52.448056" .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/longitude> "-1.495556" .
+<http://stadiums.org/Coventry> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Crystal Palace " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Crystal Palace" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Selhurst Park " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "26309" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.398333" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.085556" .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/team> "Derby County " .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/FDCOUK> "Derby" .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/name> "Pride Park Stadium " .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/capacity> "33597" .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/latitude> "52.915" .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/longitude> "-1.447222" .
+<http://stadiums.org/Derby> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/team> "Doncaster Rovers " .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/FDCOUK> "Doncaster" .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/name> "Keepmoat Stadium " .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/capacity> "15231" .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/latitude> "53.509722" .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/longitude> "-1.113889" .
+<http://stadiums.org/Doncaster> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/team> "Hull City " .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/FDCOUK> "Hull" .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/name> "KC Stadium " .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/capacity> "25404" .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/latitude> "53.746111" .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/longitude> "-0.367778" .
+<http://stadiums.org/Kingston> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/team> "Ipswich Town " .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/FDCOUK> "Ipswich" .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/name> "Portman Road " .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/capacity> "30311" .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/latitude> "52.055061" .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/longitude> "1.144831" .
+<http://stadiums.org/Ipswich> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/team> "Leeds United " .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/FDCOUK> "Leeds" .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/name> "Elland Road " .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/capacity> "39460" .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/latitude> "53.777778" .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/longitude> "-1.572222" .
+<http://stadiums.org/Leeds> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/team> "Leicester City " .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/FDCOUK> "Leicester" .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/name> "King Power Stadium " .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/capacity> "32500" .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/latitude> "52.620278" .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/longitude> "-1.142222" .
+<http://stadiums.org/Leicester> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/team> "Middlesbrough " .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/FDCOUK> "Middlesbrough" .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/name> "Riverside Stadium " .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/capacity> "34988" .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/latitude> "54.578333" .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/longitude> "-1.216944" .
+<http://stadiums.org/Middlesbrough> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Millwall " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Millwall" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "The Den " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "20146" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.485953" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.05095" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/team> "Nottingham Forest " .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/FDCOUK> "Nott'm Forest" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/name> "City Ground " .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/capacity> "30576" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/latitude> "52.94" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/longitude> "-1.132778" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/team> "Peterborough United " .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/FDCOUK> "Peterboro" .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/name> "London Road Stadium " .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/capacity> "15460" .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/latitude> "52.564697" .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/longitude> "-0.240406" .
+<http://stadiums.org/Peterborough> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/team> "Portsmouth " .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/FDCOUK> "Portsmouth" .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/name> "Fratton Park " .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/capacity> "20224" .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/latitude> "50.796389" .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/longitude> "-1.063889" .
+<http://stadiums.org/Portsmouth> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/team> "Reading " .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/FDCOUK> "Reading" .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/name> "Madejski Stadium " .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/capacity> "24224" .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/latitude> "51.422222" .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/longitude> "-0.982778" .
+<http://stadiums.org/Reading> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/team> "Southampton " .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/FDCOUK> "Southampton" .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/name> "St Mary's Stadium " .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/capacity> "32689" .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/latitude> "50.905833" .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/longitude> "-1.391111" .
+<http://stadiums.org/Southampton> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/team> "Watford " .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/FDCOUK> "Watford" .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/name> "Vicarage Road " .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/capacity> "23500" .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/latitude> "51.649836" .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/longitude> "-0.401486" .
+<http://stadiums.org/Watford> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "West Ham United " .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "West Ham" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Boleyn Ground " .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "35303" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.531944" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "0.039444" .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/team> "Livingston and Gretna " .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/FDCOUK> "Livingston" .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/name> "Almondvale Stadium " .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/capacity> "10122" .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/latitude> "55.886167" .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/longitude> "-3.522872" .
+<http://stadiums.org/Livingston> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/team> "Inverness C.T. " .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/FDCOUK> "Inverness C" .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/name> "Caledonian Stadium " .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/capacity> "7918" .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/latitude> "57.494722" .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/longitude> "-4.2175" .
+<http://stadiums.org/Iverness> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/team> "Celtic " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/FDCOUK> "Celtic" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/name> "Celtic Park " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/capacity> "60832" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/latitude> "55.849711" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/longitude> "-4.205589" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/team> "Dundee " .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/FDCOUK> "Dundee" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/name> "Dens Park " .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/capacity> "12085" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/latitude> "56.475264" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/longitude> "-2.973194" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/team> "Dunfermline Athletic " .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/FDCOUK> "Dunfermline" .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/name> "East End Park " .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/capacity> "11380" .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/latitude> "56.075308" .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/longitude> "-3.441906" .
+<http://stadiums.org/Dunfermline> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/team> "Hibernian " .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/FDCOUK> "Hibernian" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/name> "Easter Road " .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/capacity> "20421" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/latitude> "55.961667" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/longitude> "-3.165556" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/team> "Falkirk " .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/FDCOUK> "Falkirk" .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/name> "Falkirk Stadium " .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/capacity> "9200" .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/latitude> "56.005136" .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/longitude> "-3.754269" .
+<http://stadiums.org/Falkirk> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/team> "Motherwell and Gretna " .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/FDCOUK> "Motherwell" .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/name> "Fir Park " .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/capacity> "13742" .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/latitude> "55.779947" .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/longitude> "-3.980078" .
+<http://stadiums.org/Motherwell> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/team> "Partick Thistle " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/FDCOUK> "Partick" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/name> "Firhill Stadium " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/capacity> "10887" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/latitude> "55.881556" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/longitude> "-4.269639" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/team> "Rangers " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/FDCOUK> "Rangers" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/name> "Ibrox Stadium " .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/capacity> "51082" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/latitude> "55.853206" .
+<http://stadiums.org/Glasgow> <http://stadiums.org/pred/longitude> "-4.309258" .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/team> "St. Johnstone " .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/FDCOUK> "St Johnstone" .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/name> "McDiarmid Park " .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/capacity> "10673" .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/latitude> "56.409686" .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/longitude> "-3.476928" .
+<http://stadiums.org/Perth> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/team> "Hamilton Academical " .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/FDCOUK> "Hamilton" .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/name> "New Douglas Park " .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/capacity> "6078" .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/latitude> "55.782156" .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/longitude> "-4.058503" .
+<http://stadiums.org/Hamilton> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/team> "Aberdeen and Inverness C.T. " .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/FDCOUK> "Aberdeen" .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/name> "Pittodrie Stadium " .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/capacity> "22199" .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/latitude> "57.159167" .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/longitude> "-2.088889" .
+<http://stadiums.org/Aberdeen> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/team> "Kilmarnock " .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/FDCOUK> "Kilmarnock" .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/name> "Rugby Park " .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/capacity> "18128" .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/latitude> "55.604225" .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/longitude> "-4.508122" .
+<http://stadiums.org/Kilmarnock> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/team> "St. Mirren " .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/FDCOUK> "St Mirren" .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/name> "St. Mirren Park " .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/capacity> "8016" .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/latitude> "55.850556" .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/longitude> "-4.443889" .
+<http://stadiums.org/Paisley> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/team> "Dundee United " .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/FDCOUK> "Dundee United" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/name> "Tannadice Park " .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/capacity> "14209" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/latitude> "56.474703" .
+<http://stadiums.org/Dundee> <http://stadiums.org/pred/longitude> "-2.968961" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/team> "Heart of Midlothian " .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/FDCOUK> "Hearts" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/name> "Tynecastle Stadium " .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/capacity> "17420" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/latitude> "55.939167" .
+<http://stadiums.org/Edinburgh> <http://stadiums.org/pred/longitude> "-3.232222" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/team> "Ross County" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/FDCOUK> "Ross County" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/name> "Victoria Park " .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/capacity> "6310" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/latitude> "57.595947" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/longitude> "-4.418914" .
+<http://stadiums.org/Dingvall> <http://stadiums.org/pred/country> "Scotland" .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/team> "FC Augsburg " .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/FDCOUK> "Augsburg" .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/name> "SGL arena " .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/capacity> "30660" .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/latitude> "48.3225" .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/longitude> "10.882222" .
+<http://stadiums.org/Augsburg> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/team> "Bayer Leverkusen " .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/FDCOUK> "Leverkusen" .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/name> "BayArena " .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/capacity> "30210" .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/latitude> "51.038256" .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/longitude> "7.002206" .
+<http://stadiums.org/Leverkusen> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/team> "Bayern Munich " .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/FDCOUK> "Bayern Munich" .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/name> "Allianz Arena " .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/capacity> "71000" .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/latitude> "48.218775" .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/longitude> "11.624753" .
+<http://stadiums.org/Munich> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/team> "Borussia Dortmund " .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/FDCOUK> "Dortmund" .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/name> "Signal Iduna Park " .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/capacity> "80645" .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/latitude> "51.492569" .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/longitude> "7.451842" .
+<http://stadiums.org/Dortmund> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/team> "Borussia Monchengladbach " .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/FDCOUK> "M'gladbach" .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/name> "Borussia-Park " .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/capacity> "54010" .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/latitude> "51.174583" .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/longitude> "6.385464" .
+<http://stadiums.org/Monchengladbach> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/team> "Eintracht Braunschweig " .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/FDCOUK> "Braunschweig" .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/name> "Eintracht-Stadion " .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/capacity> "23325" .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/latitude> "52.29" .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/longitude> "10.521667" .
+<http://stadiums.org/Braunschweig> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/team> "Eintracht Frankfurt " .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/FDCOUK> "Ein Frankfurt" .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/name> "Commerzbank-Arena " .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/capacity> "51500" .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/latitude> "50.068572" .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/longitude> "8.645458" .
+<http://stadiums.org/Frankfurt> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/team> "SC Freiburg " .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/FDCOUK> "Freiburg" .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/name> "MAGE SOLAR Stadion " .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/capacity> "24000" .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/latitude> "47.988889" .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/longitude> "7.893056" .
+<http://stadiums.org/Freiburg> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/team> "Hamburger SV " .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/FDCOUK> "Hamburg" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/name> "Imtech Arena " .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/capacity> "57000" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/latitude> "53.587158" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/longitude> "9.898617" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/team> "Hannover 96 " .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/FDCOUK> "Hannover" .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/name> "HDI-Arena " .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/capacity> "49000" .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/latitude> "52.360067" .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/longitude> "9.731197" .
+<http://stadiums.org/Hanover> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/team> "Hertha BSC " .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/FDCOUK> "Hertha" .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/name> "Olympiastadion " .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/capacity> "74244" .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/latitude> "52.514722" .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/longitude> "13.239444" .
+<http://stadiums.org/Berlin> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/team> "TSG 1899 Hoffenheim " .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/FDCOUK> "Hoffenheim" .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/name> "Rhein-Neckar Arena " .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/capacity> "30150" .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/latitude> "49.239008" .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/longitude> "8.888281" .
+<http://stadiums.org/Sinsheim> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/team> "1. FSV Mainz 05 " .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/FDCOUK> "Mainz" .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/name> "Coface Arena " .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/capacity> "34000" .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/latitude> "49.984167" .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/longitude> "8.224167" .
+<http://stadiums.org/Mainz> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/team> "1. FC N\u00FCrnberg " .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/FDCOUK> "Nurnberg" .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/name> "Grundig-Stadion " .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/capacity> "50000" .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/latitude> "49.426111" .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/longitude> "11.125833" .
+<http://stadiums.org/Nuremberg> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/team> "Schalke 04 " .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/FDCOUK> "Schalke 04" .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/name> "Veltins-Arena " .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/capacity> "61673" .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/latitude> "51.554503" .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/longitude> "7.067589" .
+<http://stadiums.org/Gelsenkirchen> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/team> "VfB Stuttgart " .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/FDCOUK> "Stuttgart" .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/name> "Mercedes-Benz Arena " .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/capacity> "60441" .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/latitude> "48.792269" .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/longitude> "9.232031" .
+<http://stadiums.org/Stuttgart> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/team> "Werder Bremen " .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/FDCOUK> "Werder Bremen" .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/name> "Weserstadion " .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/capacity> "42100" .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/latitude> "53.066394" .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/longitude> "8.837628" .
+<http://stadiums.org/Bremen> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/team> "VfL Wolfsburg " .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/FDCOUK> "Wolfsburg" .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/name> "Volkswagen Arena " .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/capacity> "30000" .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/latitude> "52.431944" .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/longitude> "10.803889" .
+<http://stadiums.org/Wolfsburg> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/team> "Fortuna D\u00FCsseldorf " .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/FDCOUK> "Fortuna Dusseldorf" .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/name> "Esprit Arena " .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/capacity> "54600" .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/latitude> "51.261667" .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/longitude> "6.733056" .
+<http://stadiums.org/D%C3%BCsseldorf> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/team> "SpVgg Greuther F\u00FCrth " .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/FDCOUK> "Greuther Furth" .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/name> "Trolli Arena " .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/capacity> "18000" .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/latitude> "49.486944" .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/longitude> "10.999167" .
+<http://stadiums.org/F%C3%BCrth> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/team> "1. FC Kaiserslautern " .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/FDCOUK> "Kaiserslautern" .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/name> "Fritz-Walter-Stadion " .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/capacity> "49780" .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/latitude> "49.434722" .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/longitude> "7.776667" .
+<http://stadiums.org/Kaiserslautern> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/team> "1. FC K\u00F6ln " .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/FDCOUK> "FC Koln" .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/name> "RheinEnergieStadion " .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/capacity> "50000" .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/latitude> "50.933497" .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/longitude> "6.874997" .
+<http://stadiums.org/Cologne> <http://stadiums.org/pred/country> "Germany" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/team> "FC St. Pauli " .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/FDCOUK> "St Pauli" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/name> "Millerntor-Stadion " .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/capacity> "24487" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/latitude> "53.554444" .
+<http://stadiums.org/Hamburg> <http://stadiums.org/pred/longitude> "9.967778" .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/team> "Almer\u00EDa " .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/FDCOUK> "Almeria" .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/name> "Estadio del Mediterr\u00E1neo " .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/capacity> "22000" .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/latitude> "36.84" .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/longitude> "-2.435278" .
+<http://stadiums.org/Almer%C3%ADa> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/team> "Athletic Bilbao " .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/FDCOUK> "Ath Bilbao" .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/name> "San Mam\u00E9s " .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/capacity> "53332" .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/latitude> "43.264284" .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/longitude> "-2.950366" .
+<http://stadiums.org/Bilbao> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/team> "Atl\u00E9tico Madrid " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/FDCOUK> "Ath Madrid" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/name> "Vicente Calder\u00F3n " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/capacity> "54851" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/latitude> "40.401719" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/longitude> "-3.720606" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/team> "Barcelona " .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/FDCOUK> "Barcelona" .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/name> "Camp Nou " .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/capacity> "99354" .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/latitude> "41.38087" .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/longitude> "2.122802" .
+<http://stadiums.org/Barcelona> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/team> "Betis " .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/FDCOUK> "Betis" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/name> "Benito Villamar\u00EDn " .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/capacity> "52500" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/latitude> "37.356389" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/longitude> "-5.981389" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/team> "Celta de Vigo " .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/FDCOUK> "Celta" .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/name> "Bala\u00EDdos " .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/capacity> "31800" .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/latitude> "42.211842" .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/longitude> "-8.739711" .
+<http://stadiums.org/Vigo> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/team> "Elche " .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/FDCOUK> "Elche" .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/name> "Mart\u00EDnez Valero " .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/capacity> "36017" .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/latitude> "38.266944" .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/longitude> "-0.663333" .
+<http://stadiums.org/Elche> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/team> "Espanyol " .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/FDCOUK> "Espanol" .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/name> "Cornell\u00E0-El Prat " .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/capacity> "40500" .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/latitude> "41.347861" .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/longitude> "2.075667" .
+<http://stadiums.org/Cornell%C3%A0+de+Llobregat> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/team> "Getafe " .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/FDCOUK> "Getafe" .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/name> "Coliseum Alfonso P\u00E9rez " .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/capacity> "17700" .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/latitude> "40.325556" .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/longitude> "-3.714722" .
+<http://stadiums.org/Getafe> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/team> "Granada " .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/FDCOUK> "Granada" .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/name> "Nuevo Los C\u00E1rmenes " .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/capacity> "22524" .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/latitude> "37.152967" .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/longitude> "-3.595736" .
+<http://stadiums.org/Granada> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/team> "Levante " .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/FDCOUK> "Levante" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/name> "Ciutat de Val\u00E8ncia " .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/capacity> "25534" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/latitude> "39.494722" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/longitude> "-0.364167" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/team> "M\u00E1laga " .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/FDCOUK> "Malaga" .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/name> "La Rosaleda " .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/capacity> "30044" .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/latitude> "36.734092" .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/longitude> "-4.426422" .
+<http://stadiums.org/M%C3%A1laga> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/team> "Osasuna " .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/FDCOUK> "Osasuna" .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/name> "El Sadar " .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/capacity> "19553" .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/latitude> "42.796667" .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/longitude> "-1.636944" .
+<http://stadiums.org/Pamplona> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/team> "Rayo Vallecano " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/FDCOUK> "Vallecano" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/name> "Campo de Vallecas " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/capacity> "15489" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/latitude> "40.391944" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/longitude> "-3.658961" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/team> "Real Madrid " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/FDCOUK> "Real Madrid" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/name> "Santiago Bernab\u00E9u " .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/capacity> "85454" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/latitude> "40.45306" .
+<http://stadiums.org/Madrid> <http://stadiums.org/pred/longitude> "-3.68835" .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/team> "Real Sociedad " .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/FDCOUK> "Sociedad" .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/name> "Anoeta " .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/capacity> "32076" .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/latitude> "43.301378" .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/longitude> "-1.973617" .
+<http://stadiums.org/San+Sebasti%C3%A1n> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/team> "Sevilla " .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/FDCOUK> "Sevilla" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/name> "Ram\u00F3n S\u00E1nchez Pizju\u00E1n " .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/capacity> "45500" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/latitude> "37.384" .
+<http://stadiums.org/Seville> <http://stadiums.org/pred/longitude> "-5.9705" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/team> "Valencia " .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/FDCOUK> "Valencia" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/name> "Mestalla " .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/capacity> "55000" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/latitude> "39.474656" .
+<http://stadiums.org/Valencia> <http://stadiums.org/pred/longitude> "-0.358361" .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/team> "Valladolid " .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/FDCOUK> "Valladolid" .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/name> "Nuevo Jos\u00E9 Zorrilla " .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/capacity> "26512" .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/latitude> "41.644444" .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/longitude> "-4.761111" .
+<http://stadiums.org/Valladolid> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/team> "Villarreal " .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/FDCOUK> "Villarreal" .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/name> "El Madrigal " .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/capacity> "24890" .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/latitude> "39.944167" .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/longitude> "-0.103611" .
+<http://stadiums.org/Villarreal> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/team> "Deportivo La Coru\u00F1a " .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/FDCOUK> "La Coruna" .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/name> "Riazor " .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/capacity> "34600" .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/latitude> "43.368714" .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/longitude> "-8.417516" .
+<http://stadiums.org/A+Coru%C3%B1a> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/team> "Mallorca " .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/FDCOUK> "Mallorca" .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/name> "Iberostar Stadium " .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/capacity> "23142" .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/latitude> "39.59" .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/longitude> "2.63" .
+<http://stadiums.org/Palma> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/team> "Zaragoza " .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/FDCOUK> "Zaragoza" .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/name> "La Romareda " .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/capacity> "34596" .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/latitude> "41.636592" .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/longitude> "-0.901822" .
+<http://stadiums.org/Zaragoza> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/team> "Ajaccio " .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/FDCOUK> "Ajaccio" .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/name> "Stade Fran\u00E7ois Coty " .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/capacity> "10660" .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/latitude> "41.931081" .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/longitude> "8.776725" .
+<http://stadiums.org/Ajaccio> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/team> "Bastia " .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/FDCOUK> "Bastia" .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/name> "Stade Armand Cesari " .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/capacity> "16480" .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/latitude> "42.6514" .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/longitude> "9.442619" .
+<http://stadiums.org/Bastia> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/team> "Bordeaux " .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/FDCOUK> "Bordeaux" .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/name> "Stade Chaban-Delmas " .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/capacity> "34462" .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/latitude> "44.829167" .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/longitude> "-0.597778" .
+<http://stadiums.org/Bordeaux> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/team> "\u00C9vian " .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/FDCOUK> "Evian Thonon Gaillard" .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/name> "Parc des Sports " .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/capacity> "15660" .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/latitude> "45.916497" .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/longitude> "6.118054" .
+<http://stadiums.org/Annecy> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/team> "Guingamp " .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/FDCOUK> "Guingamp" .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/name> "Stade du Roudourou " .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/capacity> "18126" .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/latitude> "48.566285" .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/longitude> "-3.164599" .
+<http://stadiums.org/Guingamp> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/team> "Lille " .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/FDCOUK> "Lille" .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/name> "Stade Pierre-Mauroy " .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/capacity> "50186" .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/latitude> "50.611883" .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/longitude> "3.130428" .
+<http://stadiums.org/Villeneuve-d%27Ascq> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/team> "Lorient " .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/FDCOUK> "Lorient" .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/name> "Stade du Moustoir " .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/capacity> "18890" .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/latitude> "47.748747" .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/longitude> "-3.369367" .
+<http://stadiums.org/Lorient> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/team> "Lyon " .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/FDCOUK> "Lyon" .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/name> "Stade de Gerland " .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/capacity> "41842" .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/latitude> "45.723889" .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/longitude> "4.832222" .
+<http://stadiums.org/Lyon> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/team> "Marseille " .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/FDCOUK> "Marseille" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/name> "Stade Velodrome" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/capacity> "48000" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/latitude> "43.269722" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/longitude> "5.395833" .
+<http://stadiums.org/Marseille> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/team> "AS Monaco " .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/FDCOUK> "Monaco" .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/name> "Stade Louis II " .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/capacity> "18500" .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/latitude> "43.727606" .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/longitude> "7.415614" .
+<http://stadiums.org/Monaco> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/team> "Montpellier " .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/FDCOUK> "Montpellier" .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/name> "Stade de la Mosson " .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/capacity> "32939" .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/latitude> "43.622222" .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/longitude> "3.811944" .
+<http://stadiums.org/Montpellier> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/team> "Nantes " .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/FDCOUK> "Nantes" .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/name> "Stade de la Beaujoire " .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/capacity> "38285" .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/latitude> "47.255631" .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/longitude> "-1.525375" .
+<http://stadiums.org/Nantes> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/team> "Nice " .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/FDCOUK> "Nice" .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/name> "Allianz Riviera " .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/capacity> "35624" .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/latitude> "43.723328" .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/longitude> "7.258756" .
+<http://stadiums.org/Nice> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/team> "Paris Saint-Germain " .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/FDCOUK> "Paris SG" .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/name> "Parc des Princes " .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/capacity> "48712" .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/latitude> "48.841389" .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/longitude> "2.253056" .
+<http://stadiums.org/Paris> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/team> "Reims " .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/FDCOUK> "Reims" .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/name> "Stade Auguste-Delaune II " .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/capacity> "21684" .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/latitude> "49.246667" .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/longitude> "4.025" .
+<http://stadiums.org/Reims> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/team> "Rennes " .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/FDCOUK> "Rennes" .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/name> "Stade de la Route de Lorient " .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/capacity> "31127" .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/latitude> "48.107458" .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/longitude> "-1.712839" .
+<http://stadiums.org/Rennes> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/team> "Saint-\u00C9tienne " .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/FDCOUK> "St Etienne" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/name> "Stade Geoffroy-Guichard" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/capacity> "26747" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/latitude> "45.460833" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/longitude> "4.390278" .
+<http://stadiums.org/Saint-%C3%89tienne> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/team> "Sochaux " .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/FDCOUK> "Sochaux" .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/name> "Stade Auguste Bonal " .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/capacity> "20005" .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/latitude> "47.512417" .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/longitude> "6.8112" .
+<http://stadiums.org/Montb%C3%A9liard> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/team> "Toulouse " .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/FDCOUK> "Toulouse" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/name> "Stadium Municipal" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/capacity> "35470" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/latitude> "43.583056" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/longitude> "1.434167" .
+<http://stadiums.org/Toulouse> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/team> "Valenciennes " .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/FDCOUK> "Valenciennes" .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/name> "Stade du Hainaut " .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/capacity> "25172" .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/latitude> "50.348131" .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/longitude> "3.533027" .
+<http://stadiums.org/Valenciennes> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/team> "Nancy" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/FDCOUK> "Nancy" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/name> "Stade Marcel Picot " .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/capacity> "20085" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/latitude> "48.6955" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/longitude> "6.210687" .
+<http://stadiums.org/Tomblaine> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/team> "Dijon" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/FDCOUK> "Dijon" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/name> "Stade Gaston G\u00E9rard " .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/capacity> "15998" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/latitude> "47.324383" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/longitude> "5.068342" .
+<http://stadiums.org/Dijon> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/team> "Troyes " .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/FDCOUK> "Troyes" .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/name> "Stade de l'Aube " .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/capacity> "21877" .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/latitude> "48.307561" .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/longitude> "4.098458" .
+<http://stadiums.org/Troyes> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/team> "Auxerre " .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/FDCOUK> "Auxerre" .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/name> "Stade de l'Abb\u00E9-Deschamps " .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/capacity> "24493" .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/latitude> "47.786753" .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/longitude> "3.588664" .
+<http://stadiums.org/Auxerre> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/team> "Brest" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/FDCOUK> "Brest" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/name> "Stade Francis-Le Bl\u00E9 " .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/capacity> "16000" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/latitude> "48.402932" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/longitude> "-4.461694" .
+<http://stadiums.org/Brest> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/team> "Caen" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/FDCOUK> "Caen" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/name> "Stade Michel d'Ornano " .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/capacity> "21500" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/latitude> "49.179461" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/longitude> "-0.396767" .
+<http://stadiums.org/Caen> <http://stadiums.org/pred/country> "France" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/team> "Sporting de Gij\u00F3n" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/FDCOUK> "Sp Gijon" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/name> "El Molin\u00F3n" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/capacity> "30000" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/latitude> "43.536111" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/longitude> "-5.637222" .
+<http://stadiums.org/Gij%C3%B3n> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/team> "Racing de Santander" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/FDCOUK> "Santander" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/name> "Campos de Sport de El Sardinero" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/capacity> "22222" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/latitude> "43.476389" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/longitude> "-3.793333" .
+<http://stadiums.org/Santander> <http://stadiums.org/pred/country> "Spain" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/team> "Oldham Athletic" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/FDCOUK> "Oldham" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/name> "Boundary Park" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/capacity> "10638" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/latitude> "53.555278" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/longitude> "-2.128611" .
+<http://stadiums.org/Oldham> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/team> "Sheffield United" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/FDCOUK> "Sheffield United" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/name> "Bramall Lane" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/capacity> "32702" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/latitude> "53.370278" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/longitude> "-1.470833" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/139> <http://stadiums.org/pred/team> "Wimbledon" .
+<http://stadiums.org/139> <http://stadiums.org/pred/FDCOUK> "Wimbledon" .
+<http://stadiums.org/139> <http://stadiums.org/pred/name> "Selhurst Park" .
+<http://stadiums.org/139> <http://stadiums.org/pred/capacity> "26255" .
+<http://stadiums.org/139> <http://stadiums.org/pred/latitude> "51.398333" .
+<http://stadiums.org/139> <http://stadiums.org/pred/longitude> "-0.085556" .
+<http://stadiums.org/139> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/team> "Sheffield Wednesday" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/FDCOUK> "Sheffield Weds" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/name> "Hillsborough" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/capacity> "39732" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/latitude> "53.411389" .
+<http://stadiums.org/Sheffield> <http://stadiums.org/pred/longitude> "-1.500556" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/team> "Swindon Town" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/FDCOUK> "Swindon" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/name> "County Ground" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/capacity> "15728" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/latitude> "51.564444" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/longitude> "-1.770556" .
+<http://stadiums.org/Swindon> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/team> "Charlton Athletic" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/FDCOUK> "Charlton" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/name> "The Valley " .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/capacity> "27111" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/latitude> "51.486389" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/longitude> "0.036389" .
+<http://stadiums.org/Greenwich> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/team> "Bradford City" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/FDCOUK> "Bradford" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/name> "Valley Parade" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/capacity> "25136" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/latitude> "53.804222" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/longitude> "-1.759022" .
+<http://stadiums.org/Bradford> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/team> "Grimsby Town" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/FDCOUK> "Grimsby" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/name> "Blundell park" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/capacity> "9062" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/latitude> "53.570225" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/longitude> "-0.046497" .
+<http://stadiums.org/Cleethorpes> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/team> "Luton Town" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/FDCOUK> "Luton" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/name> "Kenilworth Road" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/capacity> "10356" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/latitude> "51.884167" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/longitude> "-0.431667" .
+<http://stadiums.org/Luton> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/team> "Notts County F.C." .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/FDCOUK> "Notts County" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/name> "Meadow Lane" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/capacity> "20211" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/latitude> "52.9425" .
+<http://stadiums.org/Nottingham> <http://stadiums.org/pred/longitude> "-1.137222" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/team> "Oxford United" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/FDCOUK> "Oxford" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/name> "Kassam Stadium" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/capacity> "12500" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/latitude> "51.716419" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/longitude> "-1.208067" .
+<http://stadiums.org/Oxford> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/team> "Southend United" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/FDCOUK> "Southend" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/name> "Roots Hall" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/capacity> "12392" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/latitude> "51.549016" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/longitude> "0.7015583" .
+<http://stadiums.org/Prittlewell> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/team> "Tranmere Rovers" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/FDCOUK> "Tranmere" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/name> "Prenton Park" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/capacity> "16567" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/latitude> "53.3736111" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/longitude> "-3.0325" .
+<http://stadiums.org/Birkenhead> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/team> "Huddersfield Town A.F.C." .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/FDCOUK> "Huddersfield" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/name> "The John Smith's Stadium" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/capacity> "24500" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/latitude> "53.65416" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/longitude> "-1.76833" .
+<http://stadiums.org/Huddersfield> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/team> "Port Vale F.C." .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/FDCOUK> "Port Vale" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/name> "Vale Park" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/capacity> "19052" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/latitude> "53.049722" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/longitude> "-2.1925" .
+<http://stadiums.org/Burslem> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/team> "Bury F.C." .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/FDCOUK> "Bury" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/name> "Gigg Lane" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/capacity> "11840" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/latitude> "53.5805055" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/longitude> "-2.294822" .
+<http://stadiums.org/Bury> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/team> "Crewe Alexandra" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/FDCOUK> "Crewe" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/name> "Alexandra Stadium" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/capacity> "10153" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/latitude> "53.0874194" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/longitude> "-2.4357472" .
+<http://stadiums.org/Crewe> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/team> "Stockport County" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/FDCOUK> "Stockport" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/name> "Edgeley Park" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/capacity> "10841" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/latitude> "53.39972" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/longitude> "-2.16638" .
+<http://stadiums.org/Stockport> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/team> "Walsall F.C." .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/FDCOUK> "Walsall" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/name> "Banks's Stadium" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/capacity> "11300" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/latitude> "52.565433" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/longitude> "-1.9907055" .
+<http://stadiums.org/Walsall> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/team> "Gillingham F.C." .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/FDCOUK> "Gillingham" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/name> "Priestfield" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/capacity> "11582" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/latitude> "51.38425" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/longitude> "0.5607527" .
+<http://stadiums.org/Gillingham> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/team> "Preston North End " .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/FDCOUK> "Preston" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/name> "Deepdale" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/capacity> "23404" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/latitude> "53.77222" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/longitude> "-2.68805" .
+<http://stadiums.org/Preston> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/team> "Rotherham United" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/FDCOUK> "Rotherham" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/name> "New York Stadium" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/capacity> "12021" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/latitude> "53.4279" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/longitude> "-1.362" .
+<http://stadiums.org/Rotherham> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/team> "Plymouth Argyle" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/FDCOUK> "Plymouth" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/name> "Home Park" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/capacity> "17150" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/latitude> "50.38805" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/longitude> "-4.150833" .
+<http://stadiums.org/Plymouth> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/team> "Colchester United" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/FDCOUK> "Colchester" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/name> "Colchester Community Stadium" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/capacity> "10105" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/latitude> "51.923394" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/longitude> "0.897703" .
+<http://stadiums.org/Colchester> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/team> "Scunthorpe United" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/FDCOUK> "Scunthorpe" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/name> "Glanford Park" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/capacity> "9088" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/latitude> "53.586725" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/longitude> "-0.695266" .
+<http://stadiums.org/Scunthorpe> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/team> "A.F.C. Bournemouth" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/FDCOUK> "Bournemouth" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/name> "Goldsands Stadium" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/capacity> "12000" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/latitude> "50.735277" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/longitude> "-1.83833" .
+<http://stadiums.org/Bournemouth> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/team> "Yeovil Town" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/FDCOUK> "Yeovil" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/name> "Huish Park" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/capacity> "9565" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/latitude> "50.95027" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/longitude> "-2.67488" .
+<http://stadiums.org/Yeovil> <http://stadiums.org/pred/country> "England" .
+<http://stadiums.org/London> <http://stadiums.org/pred/team> "Brentford" .
+<http://stadiums.org/London> <http://stadiums.org/pred/FDCOUK> "Brentford" .
+<http://stadiums.org/London> <http://stadiums.org/pred/name> "Griffin Park" .
+<http://stadiums.org/London> <http://stadiums.org/pred/capacity> "12763" .
+<http://stadiums.org/London> <http://stadiums.org/pred/latitude> "51.488183" .
+<http://stadiums.org/London> <http://stadiums.org/pred/longitude> "-0.302639" .

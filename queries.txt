@@ -15,3 +15,43 @@ SELECT ?itemLabel ?genreLabel ?publisherLabel ?dateLabel ?consoleLabel ?reviewSc
                    wdt:P577 ?date;
                    wdt:P400 ?console}
 }
+
+#Listagem de todos os jogos da rockstar
+SELECT ?itemLabel WHERE {
+  ?item wdt:P31 wd:Q7889.
+  ?item wdt:P123 wd:Q94912.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
+
+
+----------------------//-------------------
+#estádios de portugal
+SELECT ?itemLabel ?coordinates ?ownerLabel ?capacity ?image
+WHERE {
+  ?item wdt:P31 wd:Q1154710.
+  ?item wdt:P17 wd:Q45.
+  ?item wdt:P625 ?coordinates.
+  ?item wdt:P127 ?owner.
+  ?item wdt:P1083 ?capacity.
+  ?item wdt:P18 ?image.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,pt,es,de,fr,ru". }
+}
+
+#estádios de portugal em que owner são clubes
+SELECT ?itemLabel ?coordinates ?ownerLabel ?capacity ?image
+WHERE {
+  {
+    ?item wdt:P31 wd:Q1154710.
+    ?item wdt:P17 wd:Q45.
+    ?item wdt:P625 ?coordinates.
+    ?item wdt:P127 ?owner.
+    ?item wdt:P1083 ?capacity.
+    ?item wdt:P18 ?image.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,pt,es,de,fr,ru". }
+  }
+  {
+     ?owner wdt:P31 wd:Q476028.
+  }
+}

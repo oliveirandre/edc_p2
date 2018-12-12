@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+]>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns="http://example.org/data/stadiums.csv#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://stadiums.org/139">
+    <ns0:FDCOUK xmlns:ns0="http://stadiums.org/pred/">Wimbledon</ns0:FDCOUK>
+    <ns1:capacity xmlns:ns1="http://stadiums.org/pred/">26255</ns1:capacity>
+    <ns2:country xmlns:ns2="http://stadiums.org/pred/">England</ns2:country>
+    <ns3:latitude xmlns:ns3="http://stadiums.org/pred/">51.398333</ns3:latitude>
+    <ns4:longitude xmlns:ns4="http://stadiums.org/pred/">-0.085556</ns4:longitude>
+    <ns5:name xmlns:ns5="http://stadiums.org/pred/">Selhurst Park</ns5:name>
+    <ns6:team xmlns:ns6="http://stadiums.org/pred/">Wimbledon</ns6:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/A+Coru%C3%B1a+">
+    <ns7:FDCOUK xmlns:ns7="http://stadiums.org/pred/">La Coruna</ns7:FDCOUK>
+    <ns8:capacity xmlns:ns8="http://stadiums.org/pred/">34600</ns8:capacity>
+    <ns9:country xmlns:ns9="http://stadiums.org/pred/">Spain</ns9:country>
+    <ns10:latitude xmlns:ns10="http://stadiums.org/pred/">43.368714</ns10:latitude>
+    <ns11:longitude xmlns:ns11="http://stadiums.org/pred/">-8.417516</ns11:longitude>
+    <ns12:name xmlns:ns12="http://stadiums.org/pred/">Riazor </ns12:name>
+    <ns13:team xmlns:ns13="http://stadiums.org/pred/">Deportivo La Coruña </ns13:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Aberdeen">
+    <ns14:FDCOUK xmlns:ns14="http://stadiums.org/pred/">Aberdeen</ns14:FDCOUK>
+    <ns15:capacity xmlns:ns15="http://stadiums.org/pred/">22199</ns15:capacity>
+    <ns16:country xmlns:ns16="http://stadiums.org/pred/">Scotland</ns16:country>
+    <ns17:latitude xmlns:ns17="http://stadiums.org/pred/">57.159167</ns17:latitude>
+    <ns18:longitude xmlns:ns18="http://stadiums.org/pred/">-2.088889</ns18:longitude>
+    <ns19:name xmlns:ns19="http://stadiums.org/pred/">Pittodrie Stadium </ns19:name>
+    <ns20:team xmlns:ns20="http://stadiums.org/pred/">Aberdeen and Inverness C.T. </ns20:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Ajaccio+">
+    <ns21:FDCOUK xmlns:ns21="http://stadiums.org/pred/">Ajaccio</ns21:FDCOUK>
+    <ns22:capacity xmlns:ns22="http://stadiums.org/pred/">10660</ns22:capacity>
+    <ns23:country xmlns:ns23="http://stadiums.org/pred/">France</ns23:country>
+    <ns24:latitude xmlns:ns24="http://stadiums.org/pred/">41.931081</ns24:latitude>
+    <ns25:longitude xmlns:ns25="http://stadiums.org/pred/">8.776725</ns25:longitude>
+    <ns26:name xmlns:ns26="http://stadiums.org/pred/">Stade François Coty </ns26:name>
+    <ns27:team xmlns:ns27="http://stadiums.org/pred/">Ajaccio </ns27:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Almer%C3%ADa+">
+    <ns28:FDCOUK xmlns:ns28="http://stadiums.org/pred/">Almeria</ns28:FDCOUK>
+    <ns29:capacity xmlns:ns29="http://stadiums.org/pred/">22000</ns29:capacity>
+    <ns30:country xmlns:ns30="http://stadiums.org/pred/">Spain</ns30:country>
+    <ns31:latitude xmlns:ns31="http://stadiums.org/pred/">36.84</ns31:latitude>
+    <ns32:longitude xmlns:ns32="http://stadiums.org/pred/">-2.435278</ns32:longitude>
+    <ns33:name xmlns:ns33="http://stadiums.org/pred/">Estadio del Mediterráneo </ns33:name>
+    <ns34:team xmlns:ns34="http://stadiums.org/pred/">Almería </ns34:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Annecy+">
+    <ns35:FDCOUK xmlns:ns35="http://stadiums.org/pred/">Evian Thonon Gaillard</ns35:FDCOUK>
+    <ns36:capacity xmlns:ns36="http://stadiums.org/pred/">15660</ns36:capacity>
+    <ns37:country xmlns:ns37="http://stadiums.org/pred/">France</ns37:country>
+    <ns38:latitude xmlns:ns38="http://stadiums.org/pred/">45.916497</ns38:latitude>
+    <ns39:longitude xmlns:ns39="http://stadiums.org/pred/">6.118054</ns39:longitude>
+    <ns40:name xmlns:ns40="http://stadiums.org/pred/">Parc des Sports </ns40:name>
+    <ns41:team xmlns:ns41="http://stadiums.org/pred/">Évian </ns41:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Augsburg+">
+    <ns42:FDCOUK xmlns:ns42="http://stadiums.org/pred/">Augsburg</ns42:FDCOUK>
+    <ns43:capacity xmlns:ns43="http://stadiums.org/pred/">30660</ns43:capacity>
+    <ns44:country xmlns:ns44="http://stadiums.org/pred/">Germany</ns44:country>
+    <ns45:latitude xmlns:ns45="http://stadiums.org/pred/">48.3225</ns45:latitude>
+    <ns46:longitude xmlns:ns46="http://stadiums.org/pred/">10.882222</ns46:longitude>
+    <ns47:name xmlns:ns47="http://stadiums.org/pred/">SGL arena </ns47:name>
+    <ns48:team xmlns:ns48="http://stadiums.org/pred/">FC Augsburg </ns48:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Auxerre+">
+    <ns49:FDCOUK xmlns:ns49="http://stadiums.org/pred/">Auxerre</ns49:FDCOUK>
+    <ns50:capacity xmlns:ns50="http://stadiums.org/pred/">24493</ns50:capacity>
+    <ns51:country xmlns:ns51="http://stadiums.org/pred/">France</ns51:country>
+    <ns52:latitude xmlns:ns52="http://stadiums.org/pred/">47.786753</ns52:latitude>
+    <ns53:longitude xmlns:ns53="http://stadiums.org/pred/">3.588664</ns53:longitude>
+    <ns54:name xmlns:ns54="http://stadiums.org/pred/">Stade de l'Abbé-Deschamps </ns54:name>
+    <ns55:team xmlns:ns55="http://stadiums.org/pred/">Auxerre </ns55:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Barcelona+">
+    <ns56:FDCOUK xmlns:ns56="http://stadiums.org/pred/">Barcelona</ns56:FDCOUK>
+    <ns57:capacity xmlns:ns57="http://stadiums.org/pred/">99354</ns57:capacity>
+    <ns58:country xmlns:ns58="http://stadiums.org/pred/">Spain</ns58:country>
+    <ns59:latitude xmlns:ns59="http://stadiums.org/pred/">41.38087</ns59:latitude>
+    <ns60:longitude xmlns:ns60="http://stadiums.org/pred/">2.122802</ns60:longitude>
+    <ns61:name xmlns:ns61="http://stadiums.org/pred/">Camp Nou </ns61:name>
+    <ns62:team xmlns:ns62="http://stadiums.org/pred/">Barcelona </ns62:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Barnsley+">
+    <ns63:FDCOUK xmlns:ns63="http://stadiums.org/pred/">Barnsley</ns63:FDCOUK>
+    <ns64:capacity xmlns:ns64="http://stadiums.org/pred/">23009</ns64:capacity>
+    <ns65:country xmlns:ns65="http://stadiums.org/pred/">England</ns65:country>
+    <ns66:latitude xmlns:ns66="http://stadiums.org/pred/">53.552222</ns66:latitude>
+    <ns67:longitude xmlns:ns67="http://stadiums.org/pred/">-1.4675</ns67:longitude>
+    <ns68:name xmlns:ns68="http://stadiums.org/pred/">Oakwell </ns68:name>
+    <ns69:team xmlns:ns69="http://stadiums.org/pred/">Barnsley </ns69:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bastia+">
+    <ns70:FDCOUK xmlns:ns70="http://stadiums.org/pred/">Bastia</ns70:FDCOUK>
+    <ns71:capacity xmlns:ns71="http://stadiums.org/pred/">16480</ns71:capacity>
+    <ns72:country xmlns:ns72="http://stadiums.org/pred/">France</ns72:country>
+    <ns73:latitude xmlns:ns73="http://stadiums.org/pred/">42.6514</ns73:latitude>
+    <ns74:longitude xmlns:ns74="http://stadiums.org/pred/">9.442619</ns74:longitude>
+    <ns75:name xmlns:ns75="http://stadiums.org/pred/">Stade Armand Cesari </ns75:name>
+    <ns76:team xmlns:ns76="http://stadiums.org/pred/">Bastia </ns76:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Berlin+">
+    <ns77:FDCOUK xmlns:ns77="http://stadiums.org/pred/">Hertha</ns77:FDCOUK>
+    <ns78:capacity xmlns:ns78="http://stadiums.org/pred/">74244</ns78:capacity>
+    <ns79:country xmlns:ns79="http://stadiums.org/pred/">Germany</ns79:country>
+    <ns80:latitude xmlns:ns80="http://stadiums.org/pred/">52.514722</ns80:latitude>
+    <ns81:longitude xmlns:ns81="http://stadiums.org/pred/">13.239444</ns81:longitude>
+    <ns82:name xmlns:ns82="http://stadiums.org/pred/">Olympiastadion </ns82:name>
+    <ns83:team xmlns:ns83="http://stadiums.org/pred/">Hertha BSC </ns83:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bilbao+">
+    <ns84:FDCOUK xmlns:ns84="http://stadiums.org/pred/">Ath Bilbao</ns84:FDCOUK>
+    <ns85:capacity xmlns:ns85="http://stadiums.org/pred/">53332</ns85:capacity>
+    <ns86:country xmlns:ns86="http://stadiums.org/pred/">Spain</ns86:country>
+    <ns87:latitude xmlns:ns87="http://stadiums.org/pred/">43.264284</ns87:latitude>
+    <ns88:longitude xmlns:ns88="http://stadiums.org/pred/">-2.950366</ns88:longitude>
+    <ns89:name xmlns:ns89="http://stadiums.org/pred/">San Mamés </ns89:name>
+    <ns90:team xmlns:ns90="http://stadiums.org/pred/">Athletic Bilbao </ns90:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Birkenhead">
+    <ns91:FDCOUK xmlns:ns91="http://stadiums.org/pred/">Tranmere</ns91:FDCOUK>
+    <ns92:capacity xmlns:ns92="http://stadiums.org/pred/">16567</ns92:capacity>
+    <ns93:country xmlns:ns93="http://stadiums.org/pred/">England</ns93:country>
+    <ns94:latitude xmlns:ns94="http://stadiums.org/pred/">53.3736111</ns94:latitude>
+    <ns95:longitude xmlns:ns95="http://stadiums.org/pred/">-3.0325</ns95:longitude>
+    <ns96:name xmlns:ns96="http://stadiums.org/pred/">Prenton Park</ns96:name>
+    <ns97:team xmlns:ns97="http://stadiums.org/pred/">Tranmere Rovers</ns97:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Birmingham+">
+    <ns98:FDCOUK xmlns:ns98="http://stadiums.org/pred/">Aston Villa</ns98:FDCOUK>
+    <ns99:FDCOUK xmlns:ns99="http://stadiums.org/pred/">Birmingham</ns99:FDCOUK>
+    <ns100:capacity xmlns:ns100="http://stadiums.org/pred/">30079</ns100:capacity>
+    <ns101:capacity xmlns:ns101="http://stadiums.org/pred/">42785</ns101:capacity>
+    <ns102:country xmlns:ns102="http://stadiums.org/pred/">England</ns102:country>
+    <ns103:latitude xmlns:ns103="http://stadiums.org/pred/">52.475703</ns103:latitude>
+    <ns104:latitude xmlns:ns104="http://stadiums.org/pred/">52.509167</ns104:latitude>
+    <ns105:longitude xmlns:ns105="http://stadiums.org/pred/">-1.868189</ns105:longitude>
+    <ns106:longitude xmlns:ns106="http://stadiums.org/pred/">-1.884722</ns106:longitude>
+    <ns107:name xmlns:ns107="http://stadiums.org/pred/">St Andrew's Stadium </ns107:name>
+    <ns108:name xmlns:ns108="http://stadiums.org/pred/">Villa Park </ns108:name>
+    <ns109:team xmlns:ns109="http://stadiums.org/pred/">Aston Villa </ns109:team>
+    <ns110:team xmlns:ns110="http://stadiums.org/pred/">Birmingham City </ns110:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Blackburn+">
+    <ns111:FDCOUK xmlns:ns111="http://stadiums.org/pred/">Blackburn</ns111:FDCOUK>
+    <ns112:capacity xmlns:ns112="http://stadiums.org/pred/">31154</ns112:capacity>
+    <ns113:country xmlns:ns113="http://stadiums.org/pred/">England</ns113:country>
+    <ns114:latitude xmlns:ns114="http://stadiums.org/pred/">53.728611</ns114:latitude>
+    <ns115:longitude xmlns:ns115="http://stadiums.org/pred/">-2.489167</ns115:longitude>
+    <ns116:name xmlns:ns116="http://stadiums.org/pred/">Ewood Park </ns116:name>
+    <ns117:team xmlns:ns117="http://stadiums.org/pred/">Blackburn Rovers </ns117:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Blackpool+">
+    <ns118:FDCOUK xmlns:ns118="http://stadiums.org/pred/">Blackpool</ns118:FDCOUK>
+    <ns119:capacity xmlns:ns119="http://stadiums.org/pred/">16220</ns119:capacity>
+    <ns120:country xmlns:ns120="http://stadiums.org/pred/">England</ns120:country>
+    <ns121:latitude xmlns:ns121="http://stadiums.org/pred/">53.804722</ns121:latitude>
+    <ns122:longitude xmlns:ns122="http://stadiums.org/pred/">-3.048056</ns122:longitude>
+    <ns123:name xmlns:ns123="http://stadiums.org/pred/">Bloomfield Road </ns123:name>
+    <ns124:team xmlns:ns124="http://stadiums.org/pred/">Blackpool </ns124:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bolton+">
+    <ns125:FDCOUK xmlns:ns125="http://stadiums.org/pred/">Bolton</ns125:FDCOUK>
+    <ns126:capacity xmlns:ns126="http://stadiums.org/pred/">28100</ns126:capacity>
+    <ns127:country xmlns:ns127="http://stadiums.org/pred/">England</ns127:country>
+    <ns128:latitude xmlns:ns128="http://stadiums.org/pred/">53.580556</ns128:latitude>
+    <ns129:longitude xmlns:ns129="http://stadiums.org/pred/">-2.535556</ns129:longitude>
+    <ns130:name xmlns:ns130="http://stadiums.org/pred/">Reebok Stadium </ns130:name>
+    <ns131:team xmlns:ns131="http://stadiums.org/pred/">Bolton Wanderers </ns131:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bordeaux+">
+    <ns132:FDCOUK xmlns:ns132="http://stadiums.org/pred/">Bordeaux</ns132:FDCOUK>
+    <ns133:capacity xmlns:ns133="http://stadiums.org/pred/">34462</ns133:capacity>
+    <ns134:country xmlns:ns134="http://stadiums.org/pred/">France</ns134:country>
+    <ns135:latitude xmlns:ns135="http://stadiums.org/pred/">44.829167</ns135:latitude>
+    <ns136:longitude xmlns:ns136="http://stadiums.org/pred/">-0.597778</ns136:longitude>
+    <ns137:name xmlns:ns137="http://stadiums.org/pred/">Stade Chaban-Delmas </ns137:name>
+    <ns138:team xmlns:ns138="http://stadiums.org/pred/">Bordeaux </ns138:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bournemouth">
+    <ns139:FDCOUK xmlns:ns139="http://stadiums.org/pred/">Bournemouth</ns139:FDCOUK>
+    <ns140:capacity xmlns:ns140="http://stadiums.org/pred/">12000</ns140:capacity>
+    <ns141:country xmlns:ns141="http://stadiums.org/pred/">England</ns141:country>
+    <ns142:latitude xmlns:ns142="http://stadiums.org/pred/">50.735277</ns142:latitude>
+    <ns143:longitude xmlns:ns143="http://stadiums.org/pred/">-1.83833</ns143:longitude>
+    <ns144:name xmlns:ns144="http://stadiums.org/pred/">Goldsands Stadium</ns144:name>
+    <ns145:team xmlns:ns145="http://stadiums.org/pred/">A.F.C. Bournemouth</ns145:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bradford">
+    <ns146:FDCOUK xmlns:ns146="http://stadiums.org/pred/">Bradford</ns146:FDCOUK>
+    <ns147:capacity xmlns:ns147="http://stadiums.org/pred/">25136</ns147:capacity>
+    <ns148:country xmlns:ns148="http://stadiums.org/pred/">England</ns148:country>
+    <ns149:latitude xmlns:ns149="http://stadiums.org/pred/">53.804222</ns149:latitude>
+    <ns150:longitude xmlns:ns150="http://stadiums.org/pred/">-1.759022</ns150:longitude>
+    <ns151:name xmlns:ns151="http://stadiums.org/pred/">Valley Parade</ns151:name>
+    <ns152:team xmlns:ns152="http://stadiums.org/pred/">Bradford City</ns152:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Braunschweig+">
+    <ns153:FDCOUK xmlns:ns153="http://stadiums.org/pred/">Braunschweig</ns153:FDCOUK>
+    <ns154:capacity xmlns:ns154="http://stadiums.org/pred/">23325</ns154:capacity>
+    <ns155:country xmlns:ns155="http://stadiums.org/pred/">Germany</ns155:country>
+    <ns156:latitude xmlns:ns156="http://stadiums.org/pred/">52.29</ns156:latitude>
+    <ns157:longitude xmlns:ns157="http://stadiums.org/pred/">10.521667</ns157:longitude>
+    <ns158:name xmlns:ns158="http://stadiums.org/pred/">Eintracht-Stadion </ns158:name>
+    <ns159:team xmlns:ns159="http://stadiums.org/pred/">Eintracht Braunschweig </ns159:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bremen+">
+    <ns160:FDCOUK xmlns:ns160="http://stadiums.org/pred/">Werder Bremen</ns160:FDCOUK>
+    <ns161:capacity xmlns:ns161="http://stadiums.org/pred/">42100</ns161:capacity>
+    <ns162:country xmlns:ns162="http://stadiums.org/pred/">Germany</ns162:country>
+    <ns163:latitude xmlns:ns163="http://stadiums.org/pred/">53.066394</ns163:latitude>
+    <ns164:longitude xmlns:ns164="http://stadiums.org/pred/">8.837628</ns164:longitude>
+    <ns165:name xmlns:ns165="http://stadiums.org/pred/">Weserstadion </ns165:name>
+    <ns166:team xmlns:ns166="http://stadiums.org/pred/">Werder Bremen </ns166:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Brest">
+    <ns167:FDCOUK xmlns:ns167="http://stadiums.org/pred/">Brest</ns167:FDCOUK>
+    <ns168:capacity xmlns:ns168="http://stadiums.org/pred/">16000</ns168:capacity>
+    <ns169:country xmlns:ns169="http://stadiums.org/pred/">France</ns169:country>
+    <ns170:latitude xmlns:ns170="http://stadiums.org/pred/">48.402932</ns170:latitude>
+    <ns171:longitude xmlns:ns171="http://stadiums.org/pred/">-4.461694</ns171:longitude>
+    <ns172:name xmlns:ns172="http://stadiums.org/pred/">Stade Francis-Le Blé </ns172:name>
+    <ns173:team xmlns:ns173="http://stadiums.org/pred/">Brest</ns173:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Brighton+">
+    <ns174:FDCOUK xmlns:ns174="http://stadiums.org/pred/">Brighton</ns174:FDCOUK>
+    <ns175:capacity xmlns:ns175="http://stadiums.org/pred/">22374</ns175:capacity>
+    <ns176:country xmlns:ns176="http://stadiums.org/pred/">England</ns176:country>
+    <ns177:latitude xmlns:ns177="http://stadiums.org/pred/">50.861822</ns177:latitude>
+    <ns178:longitude xmlns:ns178="http://stadiums.org/pred/">-0.083278</ns178:longitude>
+    <ns179:name xmlns:ns179="http://stadiums.org/pred/">American Express Community Stadium </ns179:name>
+    <ns180:team xmlns:ns180="http://stadiums.org/pred/">Brighton &amp; Hove Albion </ns180:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bristol+">
+    <ns181:FDCOUK xmlns:ns181="http://stadiums.org/pred/">Bristol City</ns181:FDCOUK>
+    <ns182:capacity xmlns:ns182="http://stadiums.org/pred/">21497</ns182:capacity>
+    <ns183:country xmlns:ns183="http://stadiums.org/pred/">England</ns183:country>
+    <ns184:latitude xmlns:ns184="http://stadiums.org/pred/">51.44</ns184:latitude>
+    <ns185:longitude xmlns:ns185="http://stadiums.org/pred/">-2.620278</ns185:longitude>
+    <ns186:name xmlns:ns186="http://stadiums.org/pred/">Ashton Gate </ns186:name>
+    <ns187:team xmlns:ns187="http://stadiums.org/pred/">Bristol City </ns187:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Burnley+">
+    <ns188:FDCOUK xmlns:ns188="http://stadiums.org/pred/">Burnley</ns188:FDCOUK>
+    <ns189:capacity xmlns:ns189="http://stadiums.org/pred/">22546</ns189:capacity>
+    <ns190:country xmlns:ns190="http://stadiums.org/pred/">England</ns190:country>
+    <ns191:latitude xmlns:ns191="http://stadiums.org/pred/">53.789167</ns191:latitude>
+    <ns192:longitude xmlns:ns192="http://stadiums.org/pred/">-2.230278</ns192:longitude>
+    <ns193:name xmlns:ns193="http://stadiums.org/pred/">Turf Moor </ns193:name>
+    <ns194:team xmlns:ns194="http://stadiums.org/pred/">Burnley </ns194:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Burslem">
+    <ns195:FDCOUK xmlns:ns195="http://stadiums.org/pred/">Port Vale</ns195:FDCOUK>
+    <ns196:capacity xmlns:ns196="http://stadiums.org/pred/">19052</ns196:capacity>
+    <ns197:country xmlns:ns197="http://stadiums.org/pred/">England</ns197:country>
+    <ns198:latitude xmlns:ns198="http://stadiums.org/pred/">53.049722</ns198:latitude>
+    <ns199:longitude xmlns:ns199="http://stadiums.org/pred/">-2.1925</ns199:longitude>
+    <ns200:name xmlns:ns200="http://stadiums.org/pred/">Vale Park</ns200:name>
+    <ns201:team xmlns:ns201="http://stadiums.org/pred/">Port Vale F.C.</ns201:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Bury">
+    <ns202:FDCOUK xmlns:ns202="http://stadiums.org/pred/">Bury</ns202:FDCOUK>
+    <ns203:capacity xmlns:ns203="http://stadiums.org/pred/">11840</ns203:capacity>
+    <ns204:country xmlns:ns204="http://stadiums.org/pred/">England</ns204:country>
+    <ns205:latitude xmlns:ns205="http://stadiums.org/pred/">53.5805055</ns205:latitude>
+    <ns206:longitude xmlns:ns206="http://stadiums.org/pred/">-2.294822</ns206:longitude>
+    <ns207:name xmlns:ns207="http://stadiums.org/pred/">Gigg Lane</ns207:name>
+    <ns208:team xmlns:ns208="http://stadiums.org/pred/">Bury F.C.</ns208:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Caen+">
+    <ns209:FDCOUK xmlns:ns209="http://stadiums.org/pred/">Caen</ns209:FDCOUK>
+    <ns210:capacity xmlns:ns210="http://stadiums.org/pred/">21500</ns210:capacity>
+    <ns211:country xmlns:ns211="http://stadiums.org/pred/">France</ns211:country>
+    <ns212:latitude xmlns:ns212="http://stadiums.org/pred/">49.179461</ns212:latitude>
+    <ns213:longitude xmlns:ns213="http://stadiums.org/pred/">-0.396767</ns213:longitude>
+    <ns214:name xmlns:ns214="http://stadiums.org/pred/">Stade Michel d'Ornano </ns214:name>
+    <ns215:team xmlns:ns215="http://stadiums.org/pred/">Caen</ns215:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Cardiff+">
+    <ns216:FDCOUK xmlns:ns216="http://stadiums.org/pred/">Cardiff</ns216:FDCOUK>
+    <ns217:capacity xmlns:ns217="http://stadiums.org/pred/">26828</ns217:capacity>
+    <ns218:country xmlns:ns218="http://stadiums.org/pred/">England</ns218:country>
+    <ns219:latitude xmlns:ns219="http://stadiums.org/pred/">51.472778</ns219:latitude>
+    <ns220:longitude xmlns:ns220="http://stadiums.org/pred/">-3.203056</ns220:longitude>
+    <ns221:name xmlns:ns221="http://stadiums.org/pred/">Cardiff City Stadium </ns221:name>
+    <ns222:team xmlns:ns222="http://stadiums.org/pred/">Cardiff City </ns222:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Cleethorpes">
+    <ns223:FDCOUK xmlns:ns223="http://stadiums.org/pred/">Grimsby</ns223:FDCOUK>
+    <ns224:capacity xmlns:ns224="http://stadiums.org/pred/">9062</ns224:capacity>
+    <ns225:country xmlns:ns225="http://stadiums.org/pred/">England</ns225:country>
+    <ns226:latitude xmlns:ns226="http://stadiums.org/pred/">53.570225</ns226:latitude>
+    <ns227:longitude xmlns:ns227="http://stadiums.org/pred/">-0.046497</ns227:longitude>
+    <ns228:name xmlns:ns228="http://stadiums.org/pred/">Blundell park</ns228:name>
+    <ns229:team xmlns:ns229="http://stadiums.org/pred/">Grimsby Town</ns229:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Colchester">
+    <ns230:FDCOUK xmlns:ns230="http://stadiums.org/pred/">Colchester</ns230:FDCOUK>
+    <ns231:capacity xmlns:ns231="http://stadiums.org/pred/">10105</ns231:capacity>
+    <ns232:country xmlns:ns232="http://stadiums.org/pred/">England</ns232:country>
+    <ns233:latitude xmlns:ns233="http://stadiums.org/pred/">51.923394</ns233:latitude>
+    <ns234:longitude xmlns:ns234="http://stadiums.org/pred/">0.897703</ns234:longitude>
+    <ns235:name xmlns:ns235="http://stadiums.org/pred/">Colchester Community Stadium</ns235:name>
+    <ns236:team xmlns:ns236="http://stadiums.org/pred/">Colchester United</ns236:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Cologne+">
+    <ns237:FDCOUK xmlns:ns237="http://stadiums.org/pred/">FC Koln</ns237:FDCOUK>
+    <ns238:capacity xmlns:ns238="http://stadiums.org/pred/">50000</ns238:capacity>
+    <ns239:country xmlns:ns239="http://stadiums.org/pred/">Germany</ns239:country>
+    <ns240:latitude xmlns:ns240="http://stadiums.org/pred/">50.933497</ns240:latitude>
+    <ns241:longitude xmlns:ns241="http://stadiums.org/pred/">6.874997</ns241:longitude>
+    <ns242:name xmlns:ns242="http://stadiums.org/pred/">RheinEnergieStadion </ns242:name>
+    <ns243:team xmlns:ns243="http://stadiums.org/pred/">1. FC Köln </ns243:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Cornell%C3%A0+de+Llobregat+">
+    <ns244:FDCOUK xmlns:ns244="http://stadiums.org/pred/">Espanol</ns244:FDCOUK>
+    <ns245:capacity xmlns:ns245="http://stadiums.org/pred/">40500</ns245:capacity>
+    <ns246:country xmlns:ns246="http://stadiums.org/pred/">Spain</ns246:country>
+    <ns247:latitude xmlns:ns247="http://stadiums.org/pred/">41.347861</ns247:latitude>
+    <ns248:longitude xmlns:ns248="http://stadiums.org/pred/">2.075667</ns248:longitude>
+    <ns249:name xmlns:ns249="http://stadiums.org/pred/">Cornellà-El Prat </ns249:name>
+    <ns250:team xmlns:ns250="http://stadiums.org/pred/">Espanyol </ns250:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Coventry+">
+    <ns251:FDCOUK xmlns:ns251="http://stadiums.org/pred/">Coventry</ns251:FDCOUK>
+    <ns252:capacity xmlns:ns252="http://stadiums.org/pred/">32609</ns252:capacity>
+    <ns253:country xmlns:ns253="http://stadiums.org/pred/">England</ns253:country>
+    <ns254:latitude xmlns:ns254="http://stadiums.org/pred/">52.448056</ns254:latitude>
+    <ns255:longitude xmlns:ns255="http://stadiums.org/pred/">-1.495556</ns255:longitude>
+    <ns256:name xmlns:ns256="http://stadiums.org/pred/">Ricoh Arena </ns256:name>
+    <ns257:team xmlns:ns257="http://stadiums.org/pred/">Coventry City </ns257:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Crewe">
+    <ns258:FDCOUK xmlns:ns258="http://stadiums.org/pred/">Crewe</ns258:FDCOUK>
+    <ns259:capacity xmlns:ns259="http://stadiums.org/pred/">10153</ns259:capacity>
+    <ns260:country xmlns:ns260="http://stadiums.org/pred/">England</ns260:country>
+    <ns261:latitude xmlns:ns261="http://stadiums.org/pred/">53.0874194</ns261:latitude>
+    <ns262:longitude xmlns:ns262="http://stadiums.org/pred/">-2.4357472</ns262:longitude>
+    <ns263:name xmlns:ns263="http://stadiums.org/pred/">Alexandra Stadium</ns263:name>
+    <ns264:team xmlns:ns264="http://stadiums.org/pred/">Crewe Alexandra</ns264:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/D%C3%BCsseldorf+">
+    <ns265:FDCOUK xmlns:ns265="http://stadiums.org/pred/">Fortuna Dusseldorf</ns265:FDCOUK>
+    <ns266:capacity xmlns:ns266="http://stadiums.org/pred/">54600</ns266:capacity>
+    <ns267:country xmlns:ns267="http://stadiums.org/pred/">Germany</ns267:country>
+    <ns268:latitude xmlns:ns268="http://stadiums.org/pred/">51.261667</ns268:latitude>
+    <ns269:longitude xmlns:ns269="http://stadiums.org/pred/">6.733056</ns269:longitude>
+    <ns270:name xmlns:ns270="http://stadiums.org/pred/">Esprit Arena </ns270:name>
+    <ns271:team xmlns:ns271="http://stadiums.org/pred/">Fortuna Düsseldorf </ns271:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Derby+">
+    <ns272:FDCOUK xmlns:ns272="http://stadiums.org/pred/">Derby</ns272:FDCOUK>
+    <ns273:capacity xmlns:ns273="http://stadiums.org/pred/">33597</ns273:capacity>
+    <ns274:country xmlns:ns274="http://stadiums.org/pred/">England</ns274:country>
+    <ns275:latitude xmlns:ns275="http://stadiums.org/pred/">52.915</ns275:latitude>
+    <ns276:longitude xmlns:ns276="http://stadiums.org/pred/">-1.447222</ns276:longitude>
+    <ns277:name xmlns:ns277="http://stadiums.org/pred/">Pride Park Stadium </ns277:name>
+    <ns278:team xmlns:ns278="http://stadiums.org/pred/">Derby County </ns278:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Dijon">
+    <ns279:FDCOUK xmlns:ns279="http://stadiums.org/pred/">Dijon</ns279:FDCOUK>
+    <ns280:capacity xmlns:ns280="http://stadiums.org/pred/">15998</ns280:capacity>
+    <ns281:country xmlns:ns281="http://stadiums.org/pred/">France</ns281:country>
+    <ns282:latitude xmlns:ns282="http://stadiums.org/pred/">47.324383</ns282:latitude>
+    <ns283:longitude xmlns:ns283="http://stadiums.org/pred/">5.068342</ns283:longitude>
+    <ns284:name xmlns:ns284="http://stadiums.org/pred/">Stade Gaston Gérard </ns284:name>
+    <ns285:team xmlns:ns285="http://stadiums.org/pred/">Dijon</ns285:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Dingvall">
+    <ns286:FDCOUK xmlns:ns286="http://stadiums.org/pred/">Ross County</ns286:FDCOUK>
+    <ns287:capacity xmlns:ns287="http://stadiums.org/pred/">6310</ns287:capacity>
+    <ns288:country xmlns:ns288="http://stadiums.org/pred/">Scotland</ns288:country>
+    <ns289:latitude xmlns:ns289="http://stadiums.org/pred/">57.595947</ns289:latitude>
+    <ns290:longitude xmlns:ns290="http://stadiums.org/pred/">-4.418914</ns290:longitude>
+    <ns291:name xmlns:ns291="http://stadiums.org/pred/">Victoria Park </ns291:name>
+    <ns292:team xmlns:ns292="http://stadiums.org/pred/">Ross County</ns292:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Doncaster+">
+    <ns293:FDCOUK xmlns:ns293="http://stadiums.org/pred/">Doncaster</ns293:FDCOUK>
+    <ns294:capacity xmlns:ns294="http://stadiums.org/pred/">15231</ns294:capacity>
+    <ns295:country xmlns:ns295="http://stadiums.org/pred/">England</ns295:country>
+    <ns296:latitude xmlns:ns296="http://stadiums.org/pred/">53.509722</ns296:latitude>
+    <ns297:longitude xmlns:ns297="http://stadiums.org/pred/">-1.113889</ns297:longitude>
+    <ns298:name xmlns:ns298="http://stadiums.org/pred/">Keepmoat Stadium </ns298:name>
+    <ns299:team xmlns:ns299="http://stadiums.org/pred/">Doncaster Rovers </ns299:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Dortmund+">
+    <ns300:FDCOUK xmlns:ns300="http://stadiums.org/pred/">Dortmund</ns300:FDCOUK>
+    <ns301:capacity xmlns:ns301="http://stadiums.org/pred/">80645</ns301:capacity>
+    <ns302:country xmlns:ns302="http://stadiums.org/pred/">Germany</ns302:country>
+    <ns303:latitude xmlns:ns303="http://stadiums.org/pred/">51.492569</ns303:latitude>
+    <ns304:longitude xmlns:ns304="http://stadiums.org/pred/">7.451842</ns304:longitude>
+    <ns305:name xmlns:ns305="http://stadiums.org/pred/">Signal Iduna Park </ns305:name>
+    <ns306:team xmlns:ns306="http://stadiums.org/pred/">Borussia Dortmund </ns306:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Dundee">
+    <ns307:FDCOUK xmlns:ns307="http://stadiums.org/pred/">Dundee</ns307:FDCOUK>
+    <ns308:FDCOUK xmlns:ns308="http://stadiums.org/pred/">Dundee United</ns308:FDCOUK>
+    <ns309:capacity xmlns:ns309="http://stadiums.org/pred/">12085</ns309:capacity>
+    <ns310:capacity xmlns:ns310="http://stadiums.org/pred/">14209</ns310:capacity>
+    <ns311:country xmlns:ns311="http://stadiums.org/pred/">Scotland</ns311:country>
+    <ns312:latitude xmlns:ns312="http://stadiums.org/pred/">56.474703</ns312:latitude>
+    <ns313:latitude xmlns:ns313="http://stadiums.org/pred/">56.475264</ns313:latitude>
+    <ns314:longitude xmlns:ns314="http://stadiums.org/pred/">-2.968961</ns314:longitude>
+    <ns315:longitude xmlns:ns315="http://stadiums.org/pred/">-2.973194</ns315:longitude>
+    <ns316:name xmlns:ns316="http://stadiums.org/pred/">Dens Park </ns316:name>
+    <ns317:name xmlns:ns317="http://stadiums.org/pred/">Tannadice Park </ns317:name>
+    <ns318:team xmlns:ns318="http://stadiums.org/pred/">Dundee </ns318:team>
+    <ns319:team xmlns:ns319="http://stadiums.org/pred/">Dundee United </ns319:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Dunfermline">
+    <ns320:FDCOUK xmlns:ns320="http://stadiums.org/pred/">Dunfermline</ns320:FDCOUK>
+    <ns321:capacity xmlns:ns321="http://stadiums.org/pred/">11380</ns321:capacity>
+    <ns322:country xmlns:ns322="http://stadiums.org/pred/">Scotland</ns322:country>
+    <ns323:latitude xmlns:ns323="http://stadiums.org/pred/">56.075308</ns323:latitude>
+    <ns324:longitude xmlns:ns324="http://stadiums.org/pred/">-3.441906</ns324:longitude>
+    <ns325:name xmlns:ns325="http://stadiums.org/pred/">East End Park </ns325:name>
+    <ns326:team xmlns:ns326="http://stadiums.org/pred/">Dunfermline Athletic </ns326:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Edinburgh">
+    <ns327:FDCOUK xmlns:ns327="http://stadiums.org/pred/">Hearts</ns327:FDCOUK>
+    <ns328:FDCOUK xmlns:ns328="http://stadiums.org/pred/">Hibernian</ns328:FDCOUK>
+    <ns329:capacity xmlns:ns329="http://stadiums.org/pred/">17420</ns329:capacity>
+    <ns330:capacity xmlns:ns330="http://stadiums.org/pred/">20421</ns330:capacity>
+    <ns331:country xmlns:ns331="http://stadiums.org/pred/">Scotland</ns331:country>
+    <ns332:latitude xmlns:ns332="http://stadiums.org/pred/">55.939167</ns332:latitude>
+    <ns333:latitude xmlns:ns333="http://stadiums.org/pred/">55.961667</ns333:latitude>
+    <ns334:longitude xmlns:ns334="http://stadiums.org/pred/">-3.165556</ns334:longitude>
+    <ns335:longitude xmlns:ns335="http://stadiums.org/pred/">-3.232222</ns335:longitude>
+    <ns336:name xmlns:ns336="http://stadiums.org/pred/">Easter Road </ns336:name>
+    <ns337:name xmlns:ns337="http://stadiums.org/pred/">Tynecastle Stadium </ns337:name>
+    <ns338:team xmlns:ns338="http://stadiums.org/pred/">Heart of Midlothian </ns338:team>
+    <ns339:team xmlns:ns339="http://stadiums.org/pred/">Hibernian </ns339:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Elche+">
+    <ns340:FDCOUK xmlns:ns340="http://stadiums.org/pred/">Elche</ns340:FDCOUK>
+    <ns341:capacity xmlns:ns341="http://stadiums.org/pred/">36017</ns341:capacity>
+    <ns342:country xmlns:ns342="http://stadiums.org/pred/">Spain</ns342:country>
+    <ns343:latitude xmlns:ns343="http://stadiums.org/pred/">38.266944</ns343:latitude>
+    <ns344:longitude xmlns:ns344="http://stadiums.org/pred/">-0.663333</ns344:longitude>
+    <ns345:name xmlns:ns345="http://stadiums.org/pred/">Martínez Valero </ns345:name>
+    <ns346:team xmlns:ns346="http://stadiums.org/pred/">Elche </ns346:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/F%C3%BCrth+">
+    <ns347:FDCOUK xmlns:ns347="http://stadiums.org/pred/">Greuther Furth</ns347:FDCOUK>
+    <ns348:capacity xmlns:ns348="http://stadiums.org/pred/">18000</ns348:capacity>
+    <ns349:country xmlns:ns349="http://stadiums.org/pred/">Germany</ns349:country>
+    <ns350:latitude xmlns:ns350="http://stadiums.org/pred/">49.486944</ns350:latitude>
+    <ns351:longitude xmlns:ns351="http://stadiums.org/pred/">10.999167</ns351:longitude>
+    <ns352:name xmlns:ns352="http://stadiums.org/pred/">Trolli Arena </ns352:name>
+    <ns353:team xmlns:ns353="http://stadiums.org/pred/">SpVgg Greuther Fürth </ns353:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Falkirk">
+    <ns354:FDCOUK xmlns:ns354="http://stadiums.org/pred/">Falkirk</ns354:FDCOUK>
+    <ns355:capacity xmlns:ns355="http://stadiums.org/pred/">9200</ns355:capacity>
+    <ns356:country xmlns:ns356="http://stadiums.org/pred/">Scotland</ns356:country>
+    <ns357:latitude xmlns:ns357="http://stadiums.org/pred/">56.005136</ns357:latitude>
+    <ns358:longitude xmlns:ns358="http://stadiums.org/pred/">-3.754269</ns358:longitude>
+    <ns359:name xmlns:ns359="http://stadiums.org/pred/">Falkirk Stadium </ns359:name>
+    <ns360:team xmlns:ns360="http://stadiums.org/pred/">Falkirk </ns360:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Frankfurt+">
+    <ns361:FDCOUK xmlns:ns361="http://stadiums.org/pred/">Ein Frankfurt</ns361:FDCOUK>
+    <ns362:capacity xmlns:ns362="http://stadiums.org/pred/">51500</ns362:capacity>
+    <ns363:country xmlns:ns363="http://stadiums.org/pred/">Germany</ns363:country>
+    <ns364:latitude xmlns:ns364="http://stadiums.org/pred/">50.068572</ns364:latitude>
+    <ns365:longitude xmlns:ns365="http://stadiums.org/pred/">8.645458</ns365:longitude>
+    <ns366:name xmlns:ns366="http://stadiums.org/pred/">Commerzbank-Arena </ns366:name>
+    <ns367:team xmlns:ns367="http://stadiums.org/pred/">Eintracht Frankfurt </ns367:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Freiburg+">
+    <ns368:FDCOUK xmlns:ns368="http://stadiums.org/pred/">Freiburg</ns368:FDCOUK>
+    <ns369:capacity xmlns:ns369="http://stadiums.org/pred/">24000</ns369:capacity>
+    <ns370:country xmlns:ns370="http://stadiums.org/pred/">Germany</ns370:country>
+    <ns371:latitude xmlns:ns371="http://stadiums.org/pred/">47.988889</ns371:latitude>
+    <ns372:longitude xmlns:ns372="http://stadiums.org/pred/">7.893056</ns372:longitude>
+    <ns373:name xmlns:ns373="http://stadiums.org/pred/">MAGE SOLAR Stadion </ns373:name>
+    <ns374:team xmlns:ns374="http://stadiums.org/pred/">SC Freiburg </ns374:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Gelsenkirchen+">
+    <ns375:FDCOUK xmlns:ns375="http://stadiums.org/pred/">Schalke 04</ns375:FDCOUK>
+    <ns376:capacity xmlns:ns376="http://stadiums.org/pred/">61673</ns376:capacity>
+    <ns377:country xmlns:ns377="http://stadiums.org/pred/">Germany</ns377:country>
+    <ns378:latitude xmlns:ns378="http://stadiums.org/pred/">51.554503</ns378:latitude>
+    <ns379:longitude xmlns:ns379="http://stadiums.org/pred/">7.067589</ns379:longitude>
+    <ns380:name xmlns:ns380="http://stadiums.org/pred/">Veltins-Arena </ns380:name>
+    <ns381:team xmlns:ns381="http://stadiums.org/pred/">Schalke 04 </ns381:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Getafe+">
+    <ns382:FDCOUK xmlns:ns382="http://stadiums.org/pred/">Getafe</ns382:FDCOUK>
+    <ns383:capacity xmlns:ns383="http://stadiums.org/pred/">17700</ns383:capacity>
+    <ns384:country xmlns:ns384="http://stadiums.org/pred/">Spain</ns384:country>
+    <ns385:latitude xmlns:ns385="http://stadiums.org/pred/">40.325556</ns385:latitude>
+    <ns386:longitude xmlns:ns386="http://stadiums.org/pred/">-3.714722</ns386:longitude>
+    <ns387:name xmlns:ns387="http://stadiums.org/pred/">Coliseum Alfonso Pérez </ns387:name>
+    <ns388:team xmlns:ns388="http://stadiums.org/pred/">Getafe </ns388:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Gij%C3%B3n">
+    <ns389:FDCOUK xmlns:ns389="http://stadiums.org/pred/">Sp Gijon</ns389:FDCOUK>
+    <ns390:capacity xmlns:ns390="http://stadiums.org/pred/">30000</ns390:capacity>
+    <ns391:country xmlns:ns391="http://stadiums.org/pred/">Spain</ns391:country>
+    <ns392:latitude xmlns:ns392="http://stadiums.org/pred/">43.536111</ns392:latitude>
+    <ns393:longitude xmlns:ns393="http://stadiums.org/pred/">-5.637222</ns393:longitude>
+    <ns394:name xmlns:ns394="http://stadiums.org/pred/">El Molinón</ns394:name>
+    <ns395:team xmlns:ns395="http://stadiums.org/pred/">Sporting de Gijón</ns395:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Gillingham">
+    <ns396:FDCOUK xmlns:ns396="http://stadiums.org/pred/">Gillingham</ns396:FDCOUK>
+    <ns397:capacity xmlns:ns397="http://stadiums.org/pred/">11582</ns397:capacity>
+    <ns398:country xmlns:ns398="http://stadiums.org/pred/">England</ns398:country>
+    <ns399:latitude xmlns:ns399="http://stadiums.org/pred/">51.38425</ns399:latitude>
+    <ns400:longitude xmlns:ns400="http://stadiums.org/pred/">0.5607527</ns400:longitude>
+    <ns401:name xmlns:ns401="http://stadiums.org/pred/">Priestfield</ns401:name>
+    <ns402:team xmlns:ns402="http://stadiums.org/pred/">Gillingham F.C.</ns402:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Glasgow">
+    <ns403:FDCOUK xmlns:ns403="http://stadiums.org/pred/">Celtic</ns403:FDCOUK>
+    <ns404:FDCOUK xmlns:ns404="http://stadiums.org/pred/">Partick</ns404:FDCOUK>
+    <ns405:FDCOUK xmlns:ns405="http://stadiums.org/pred/">Rangers</ns405:FDCOUK>
+    <ns406:capacity xmlns:ns406="http://stadiums.org/pred/">10887</ns406:capacity>
+    <ns407:capacity xmlns:ns407="http://stadiums.org/pred/">51082</ns407:capacity>
+    <ns408:capacity xmlns:ns408="http://stadiums.org/pred/">60832</ns408:capacity>
+    <ns409:country xmlns:ns409="http://stadiums.org/pred/">Scotland</ns409:country>
+    <ns410:latitude xmlns:ns410="http://stadiums.org/pred/">55.849711</ns410:latitude>
+    <ns411:latitude xmlns:ns411="http://stadiums.org/pred/">55.853206</ns411:latitude>
+    <ns412:latitude xmlns:ns412="http://stadiums.org/pred/">55.881556</ns412:latitude>
+    <ns413:longitude xmlns:ns413="http://stadiums.org/pred/">-4.205589</ns413:longitude>
+    <ns414:longitude xmlns:ns414="http://stadiums.org/pred/">-4.269639</ns414:longitude>
+    <ns415:longitude xmlns:ns415="http://stadiums.org/pred/">-4.309258</ns415:longitude>
+    <ns416:name xmlns:ns416="http://stadiums.org/pred/">Celtic Park </ns416:name>
+    <ns417:name xmlns:ns417="http://stadiums.org/pred/">Firhill Stadium </ns417:name>
+    <ns418:name xmlns:ns418="http://stadiums.org/pred/">Ibrox Stadium </ns418:name>
+    <ns419:team xmlns:ns419="http://stadiums.org/pred/">Celtic </ns419:team>
+    <ns420:team xmlns:ns420="http://stadiums.org/pred/">Partick Thistle </ns420:team>
+    <ns421:team xmlns:ns421="http://stadiums.org/pred/">Rangers </ns421:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Granada+">
+    <ns422:FDCOUK xmlns:ns422="http://stadiums.org/pred/">Granada</ns422:FDCOUK>
+    <ns423:capacity xmlns:ns423="http://stadiums.org/pred/">22524</ns423:capacity>
+    <ns424:country xmlns:ns424="http://stadiums.org/pred/">Spain</ns424:country>
+    <ns425:latitude xmlns:ns425="http://stadiums.org/pred/">37.152967</ns425:latitude>
+    <ns426:longitude xmlns:ns426="http://stadiums.org/pred/">-3.595736</ns426:longitude>
+    <ns427:name xmlns:ns427="http://stadiums.org/pred/">Nuevo Los Cármenes </ns427:name>
+    <ns428:team xmlns:ns428="http://stadiums.org/pred/">Granada </ns428:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Greenwich">
+    <ns429:FDCOUK xmlns:ns429="http://stadiums.org/pred/">Charlton</ns429:FDCOUK>
+    <ns430:capacity xmlns:ns430="http://stadiums.org/pred/">27111</ns430:capacity>
+    <ns431:country xmlns:ns431="http://stadiums.org/pred/">England</ns431:country>
+    <ns432:latitude xmlns:ns432="http://stadiums.org/pred/">51.486389</ns432:latitude>
+    <ns433:longitude xmlns:ns433="http://stadiums.org/pred/">0.036389</ns433:longitude>
+    <ns434:name xmlns:ns434="http://stadiums.org/pred/">The Valley </ns434:name>
+    <ns435:team xmlns:ns435="http://stadiums.org/pred/">Charlton Athletic</ns435:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Guingamp+">
+    <ns436:FDCOUK xmlns:ns436="http://stadiums.org/pred/">Guingamp</ns436:FDCOUK>
+    <ns437:capacity xmlns:ns437="http://stadiums.org/pred/">18126</ns437:capacity>
+    <ns438:country xmlns:ns438="http://stadiums.org/pred/">France</ns438:country>
+    <ns439:latitude xmlns:ns439="http://stadiums.org/pred/">48.566285</ns439:latitude>
+    <ns440:longitude xmlns:ns440="http://stadiums.org/pred/">-3.164599</ns440:longitude>
+    <ns441:name xmlns:ns441="http://stadiums.org/pred/">Stade du Roudourou </ns441:name>
+    <ns442:team xmlns:ns442="http://stadiums.org/pred/">Guingamp </ns442:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Hamburg+">
+    <ns443:FDCOUK xmlns:ns443="http://stadiums.org/pred/">Hamburg</ns443:FDCOUK>
+    <ns444:FDCOUK xmlns:ns444="http://stadiums.org/pred/">St Pauli</ns444:FDCOUK>
+    <ns445:capacity xmlns:ns445="http://stadiums.org/pred/">24487</ns445:capacity>
+    <ns446:capacity xmlns:ns446="http://stadiums.org/pred/">57000</ns446:capacity>
+    <ns447:country xmlns:ns447="http://stadiums.org/pred/">Germany</ns447:country>
+    <ns448:latitude xmlns:ns448="http://stadiums.org/pred/">53.554444</ns448:latitude>
+    <ns449:latitude xmlns:ns449="http://stadiums.org/pred/">53.587158</ns449:latitude>
+    <ns450:longitude xmlns:ns450="http://stadiums.org/pred/">9.898617</ns450:longitude>
+    <ns451:longitude xmlns:ns451="http://stadiums.org/pred/">9.967778</ns451:longitude>
+    <ns452:name xmlns:ns452="http://stadiums.org/pred/">Imtech Arena </ns452:name>
+    <ns453:name xmlns:ns453="http://stadiums.org/pred/">Millerntor-Stadion </ns453:name>
+    <ns454:team xmlns:ns454="http://stadiums.org/pred/">FC St. Pauli </ns454:team>
+    <ns455:team xmlns:ns455="http://stadiums.org/pred/">Hamburger SV </ns455:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Hamilton">
+    <ns456:FDCOUK xmlns:ns456="http://stadiums.org/pred/">Hamilton</ns456:FDCOUK>
+    <ns457:capacity xmlns:ns457="http://stadiums.org/pred/">6078</ns457:capacity>
+    <ns458:country xmlns:ns458="http://stadiums.org/pred/">Scotland</ns458:country>
+    <ns459:latitude xmlns:ns459="http://stadiums.org/pred/">55.782156</ns459:latitude>
+    <ns460:longitude xmlns:ns460="http://stadiums.org/pred/">-4.058503</ns460:longitude>
+    <ns461:name xmlns:ns461="http://stadiums.org/pred/">New Douglas Park </ns461:name>
+    <ns462:team xmlns:ns462="http://stadiums.org/pred/">Hamilton Academical </ns462:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Hanover+">
+    <ns463:FDCOUK xmlns:ns463="http://stadiums.org/pred/">Hannover</ns463:FDCOUK>
+    <ns464:capacity xmlns:ns464="http://stadiums.org/pred/">49000</ns464:capacity>
+    <ns465:country xmlns:ns465="http://stadiums.org/pred/">Germany</ns465:country>
+    <ns466:latitude xmlns:ns466="http://stadiums.org/pred/">52.360067</ns466:latitude>
+    <ns467:longitude xmlns:ns467="http://stadiums.org/pred/">9.731197</ns467:longitude>
+    <ns468:name xmlns:ns468="http://stadiums.org/pred/">HDI-Arena </ns468:name>
+    <ns469:team xmlns:ns469="http://stadiums.org/pred/">Hannover 96 </ns469:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Huddersfield">
+    <ns470:FDCOUK xmlns:ns470="http://stadiums.org/pred/">Huddersfield</ns470:FDCOUK>
+    <ns471:capacity xmlns:ns471="http://stadiums.org/pred/">24500</ns471:capacity>
+    <ns472:country xmlns:ns472="http://stadiums.org/pred/">England</ns472:country>
+    <ns473:latitude xmlns:ns473="http://stadiums.org/pred/">53.65416</ns473:latitude>
+    <ns474:longitude xmlns:ns474="http://stadiums.org/pred/">-1.76833</ns474:longitude>
+    <ns475:name xmlns:ns475="http://stadiums.org/pred/">The John Smith's Stadium</ns475:name>
+    <ns476:team xmlns:ns476="http://stadiums.org/pred/">Huddersfield Town A.F.C.</ns476:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Ipswich+">
+    <ns477:FDCOUK xmlns:ns477="http://stadiums.org/pred/">Ipswich</ns477:FDCOUK>
+    <ns478:capacity xmlns:ns478="http://stadiums.org/pred/">30311</ns478:capacity>
+    <ns479:country xmlns:ns479="http://stadiums.org/pred/">England</ns479:country>
+    <ns480:latitude xmlns:ns480="http://stadiums.org/pred/">52.055061</ns480:latitude>
+    <ns481:longitude xmlns:ns481="http://stadiums.org/pred/">1.144831</ns481:longitude>
+    <ns482:name xmlns:ns482="http://stadiums.org/pred/">Portman Road </ns482:name>
+    <ns483:team xmlns:ns483="http://stadiums.org/pred/">Ipswich Town </ns483:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Iverness">
+    <ns484:FDCOUK xmlns:ns484="http://stadiums.org/pred/">Inverness C</ns484:FDCOUK>
+    <ns485:capacity xmlns:ns485="http://stadiums.org/pred/">7918</ns485:capacity>
+    <ns486:country xmlns:ns486="http://stadiums.org/pred/">Scotland</ns486:country>
+    <ns487:latitude xmlns:ns487="http://stadiums.org/pred/">57.494722</ns487:latitude>
+    <ns488:longitude xmlns:ns488="http://stadiums.org/pred/">-4.2175</ns488:longitude>
+    <ns489:name xmlns:ns489="http://stadiums.org/pred/">Caledonian Stadium </ns489:name>
+    <ns490:team xmlns:ns490="http://stadiums.org/pred/">Inverness C.T. </ns490:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Kaiserslautern+">
+    <ns491:FDCOUK xmlns:ns491="http://stadiums.org/pred/">Kaiserslautern</ns491:FDCOUK>
+    <ns492:capacity xmlns:ns492="http://stadiums.org/pred/">49780</ns492:capacity>
+    <ns493:country xmlns:ns493="http://stadiums.org/pred/">Germany</ns493:country>
+    <ns494:latitude xmlns:ns494="http://stadiums.org/pred/">49.434722</ns494:latitude>
+    <ns495:longitude xmlns:ns495="http://stadiums.org/pred/">7.776667</ns495:longitude>
+    <ns496:name xmlns:ns496="http://stadiums.org/pred/">Fritz-Walter-Stadion </ns496:name>
+    <ns497:team xmlns:ns497="http://stadiums.org/pred/">1. FC Kaiserslautern </ns497:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Kilmarnock">
+    <ns498:FDCOUK xmlns:ns498="http://stadiums.org/pred/">Kilmarnock</ns498:FDCOUK>
+    <ns499:capacity xmlns:ns499="http://stadiums.org/pred/">18128</ns499:capacity>
+    <ns500:country xmlns:ns500="http://stadiums.org/pred/">Scotland</ns500:country>
+    <ns501:latitude xmlns:ns501="http://stadiums.org/pred/">55.604225</ns501:latitude>
+    <ns502:longitude xmlns:ns502="http://stadiums.org/pred/">-4.508122</ns502:longitude>
+    <ns503:name xmlns:ns503="http://stadiums.org/pred/">Rugby Park </ns503:name>
+    <ns504:team xmlns:ns504="http://stadiums.org/pred/">Kilmarnock </ns504:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Kingston+upon+Hull+">
+    <ns505:FDCOUK xmlns:ns505="http://stadiums.org/pred/">Hull</ns505:FDCOUK>
+    <ns506:capacity xmlns:ns506="http://stadiums.org/pred/">25404</ns506:capacity>
+    <ns507:country xmlns:ns507="http://stadiums.org/pred/">England</ns507:country>
+    <ns508:latitude xmlns:ns508="http://stadiums.org/pred/">53.746111</ns508:latitude>
+    <ns509:longitude xmlns:ns509="http://stadiums.org/pred/">-0.367778</ns509:longitude>
+    <ns510:name xmlns:ns510="http://stadiums.org/pred/">KC Stadium </ns510:name>
+    <ns511:team xmlns:ns511="http://stadiums.org/pred/">Hull City </ns511:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Leeds+">
+    <ns512:FDCOUK xmlns:ns512="http://stadiums.org/pred/">Leeds</ns512:FDCOUK>
+    <ns513:capacity xmlns:ns513="http://stadiums.org/pred/">39460</ns513:capacity>
+    <ns514:country xmlns:ns514="http://stadiums.org/pred/">England</ns514:country>
+    <ns515:latitude xmlns:ns515="http://stadiums.org/pred/">53.777778</ns515:latitude>
+    <ns516:longitude xmlns:ns516="http://stadiums.org/pred/">-1.572222</ns516:longitude>
+    <ns517:name xmlns:ns517="http://stadiums.org/pred/">Elland Road </ns517:name>
+    <ns518:team xmlns:ns518="http://stadiums.org/pred/">Leeds United </ns518:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Leicester+">
+    <ns519:FDCOUK xmlns:ns519="http://stadiums.org/pred/">Leicester</ns519:FDCOUK>
+    <ns520:capacity xmlns:ns520="http://stadiums.org/pred/">32500</ns520:capacity>
+    <ns521:country xmlns:ns521="http://stadiums.org/pred/">England</ns521:country>
+    <ns522:latitude xmlns:ns522="http://stadiums.org/pred/">52.620278</ns522:latitude>
+    <ns523:longitude xmlns:ns523="http://stadiums.org/pred/">-1.142222</ns523:longitude>
+    <ns524:name xmlns:ns524="http://stadiums.org/pred/">King Power Stadium </ns524:name>
+    <ns525:team xmlns:ns525="http://stadiums.org/pred/">Leicester City </ns525:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Leverkusen+">
+    <ns526:FDCOUK xmlns:ns526="http://stadiums.org/pred/">Leverkusen</ns526:FDCOUK>
+    <ns527:capacity xmlns:ns527="http://stadiums.org/pred/">30210</ns527:capacity>
+    <ns528:country xmlns:ns528="http://stadiums.org/pred/">Germany</ns528:country>
+    <ns529:latitude xmlns:ns529="http://stadiums.org/pred/">51.038256</ns529:latitude>
+    <ns530:longitude xmlns:ns530="http://stadiums.org/pred/">7.002206</ns530:longitude>
+    <ns531:name xmlns:ns531="http://stadiums.org/pred/">BayArena </ns531:name>
+    <ns532:team xmlns:ns532="http://stadiums.org/pred/">Bayer Leverkusen </ns532:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Liverpool+">
+    <ns533:FDCOUK xmlns:ns533="http://stadiums.org/pred/">Everton</ns533:FDCOUK>
+    <ns534:FDCOUK xmlns:ns534="http://stadiums.org/pred/">Liverpool</ns534:FDCOUK>
+    <ns535:capacity xmlns:ns535="http://stadiums.org/pred/">40157</ns535:capacity>
+    <ns536:capacity xmlns:ns536="http://stadiums.org/pred/">45276</ns536:capacity>
+    <ns537:country xmlns:ns537="http://stadiums.org/pred/">England</ns537:country>
+    <ns538:latitude xmlns:ns538="http://stadiums.org/pred/">53.430819</ns538:latitude>
+    <ns539:latitude xmlns:ns539="http://stadiums.org/pred/">53.438889</ns539:latitude>
+    <ns540:longitude xmlns:ns540="http://stadiums.org/pred/">-2.960828</ns540:longitude>
+    <ns541:longitude xmlns:ns541="http://stadiums.org/pred/">-2.966389</ns541:longitude>
+    <ns542:name xmlns:ns542="http://stadiums.org/pred/">Anfield </ns542:name>
+    <ns543:name xmlns:ns543="http://stadiums.org/pred/">Goodison Park </ns543:name>
+    <ns544:team xmlns:ns544="http://stadiums.org/pred/">Everton </ns544:team>
+    <ns545:team xmlns:ns545="http://stadiums.org/pred/">Liverpool </ns545:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Livingston">
+    <ns546:FDCOUK xmlns:ns546="http://stadiums.org/pred/">Livingston</ns546:FDCOUK>
+    <ns547:capacity xmlns:ns547="http://stadiums.org/pred/">10122</ns547:capacity>
+    <ns548:country xmlns:ns548="http://stadiums.org/pred/">Scotland</ns548:country>
+    <ns549:latitude xmlns:ns549="http://stadiums.org/pred/">55.886167</ns549:latitude>
+    <ns550:longitude xmlns:ns550="http://stadiums.org/pred/">-3.522872</ns550:longitude>
+    <ns551:name xmlns:ns551="http://stadiums.org/pred/">Almondvale Stadium </ns551:name>
+    <ns552:team xmlns:ns552="http://stadiums.org/pred/">Livingston and Gretna </ns552:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/London+">
+    <ns553:FDCOUK xmlns:ns553="http://stadiums.org/pred/">Arsenal</ns553:FDCOUK>
+    <ns554:FDCOUK xmlns:ns554="http://stadiums.org/pred/">Brentford</ns554:FDCOUK>
+    <ns555:FDCOUK xmlns:ns555="http://stadiums.org/pred/">Chelsea</ns555:FDCOUK>
+    <ns556:FDCOUK xmlns:ns556="http://stadiums.org/pred/">Crystal Palace</ns556:FDCOUK>
+    <ns557:FDCOUK xmlns:ns557="http://stadiums.org/pred/">Fulham</ns557:FDCOUK>
+    <ns558:FDCOUK xmlns:ns558="http://stadiums.org/pred/">Millwall</ns558:FDCOUK>
+    <ns559:FDCOUK xmlns:ns559="http://stadiums.org/pred/">QPR</ns559:FDCOUK>
+    <ns560:FDCOUK xmlns:ns560="http://stadiums.org/pred/">Tottenham</ns560:FDCOUK>
+    <ns561:FDCOUK xmlns:ns561="http://stadiums.org/pred/">West Ham</ns561:FDCOUK>
+    <ns562:capacity xmlns:ns562="http://stadiums.org/pred/">12763</ns562:capacity>
+    <ns563:capacity xmlns:ns563="http://stadiums.org/pred/">18439</ns563:capacity>
+    <ns564:capacity xmlns:ns564="http://stadiums.org/pred/">20146</ns564:capacity>
+    <ns565:capacity xmlns:ns565="http://stadiums.org/pred/">25700</ns565:capacity>
+    <ns566:capacity xmlns:ns566="http://stadiums.org/pred/">26309</ns566:capacity>
+    <ns567:capacity xmlns:ns567="http://stadiums.org/pred/">35303</ns567:capacity>
+    <ns568:capacity xmlns:ns568="http://stadiums.org/pred/">36230</ns568:capacity>
+    <ns569:capacity xmlns:ns569="http://stadiums.org/pred/">42449</ns569:capacity>
+    <ns570:capacity xmlns:ns570="http://stadiums.org/pred/">60361</ns570:capacity>
+    <ns571:country xmlns:ns571="http://stadiums.org/pred/">England</ns571:country>
+    <ns572:latitude xmlns:ns572="http://stadiums.org/pred/">51.398333</ns572:latitude>
+    <ns573:latitude xmlns:ns573="http://stadiums.org/pred/">51.475</ns573:latitude>
+    <ns574:latitude xmlns:ns574="http://stadiums.org/pred/">51.481667</ns574:latitude>
+    <ns575:latitude xmlns:ns575="http://stadiums.org/pred/">51.485953</ns575:latitude>
+    <ns576:latitude xmlns:ns576="http://stadiums.org/pred/">51.488183</ns576:latitude>
+    <ns577:latitude xmlns:ns577="http://stadiums.org/pred/">51.509167</ns577:latitude>
+    <ns578:latitude xmlns:ns578="http://stadiums.org/pred/">51.531944</ns578:latitude>
+    <ns579:latitude xmlns:ns579="http://stadiums.org/pred/">51.555</ns579:latitude>
+    <ns580:latitude xmlns:ns580="http://stadiums.org/pred/">51.603333</ns580:latitude>
+    <ns581:longitude xmlns:ns581="http://stadiums.org/pred/">0.039444</ns581:longitude>
+    <ns582:longitude xmlns:ns582="http://stadiums.org/pred/">-0.05095</ns582:longitude>
+    <ns583:longitude xmlns:ns583="http://stadiums.org/pred/">-0.065833</ns583:longitude>
+    <ns584:longitude xmlns:ns584="http://stadiums.org/pred/">-0.085556</ns584:longitude>
+    <ns585:longitude xmlns:ns585="http://stadiums.org/pred/">-0.108611</ns585:longitude>
+    <ns586:longitude xmlns:ns586="http://stadiums.org/pred/">-0.191111</ns586:longitude>
+    <ns587:longitude xmlns:ns587="http://stadiums.org/pred/">-0.221667</ns587:longitude>
+    <ns588:longitude xmlns:ns588="http://stadiums.org/pred/">-0.232222</ns588:longitude>
+    <ns589:longitude xmlns:ns589="http://stadiums.org/pred/">-0.302639</ns589:longitude>
+    <ns590:name xmlns:ns590="http://stadiums.org/pred/">Boleyn Ground </ns590:name>
+    <ns591:name xmlns:ns591="http://stadiums.org/pred/">Craven Cottage </ns591:name>
+    <ns592:name xmlns:ns592="http://stadiums.org/pred/">Emirates Stadium </ns592:name>
+    <ns593:name xmlns:ns593="http://stadiums.org/pred/">Griffin Park</ns593:name>
+    <ns594:name xmlns:ns594="http://stadiums.org/pred/">Loftus Road </ns594:name>
+    <ns595:name xmlns:ns595="http://stadiums.org/pred/">Selhurst Park </ns595:name>
+    <ns596:name xmlns:ns596="http://stadiums.org/pred/">Stamford Bridge </ns596:name>
+    <ns597:name xmlns:ns597="http://stadiums.org/pred/">The Den </ns597:name>
+    <ns598:name xmlns:ns598="http://stadiums.org/pred/">White Hart Lane </ns598:name>
+    <ns599:team xmlns:ns599="http://stadiums.org/pred/">Arsenal </ns599:team>
+    <ns600:team xmlns:ns600="http://stadiums.org/pred/">Brentford</ns600:team>
+    <ns601:team xmlns:ns601="http://stadiums.org/pred/">Chelsea </ns601:team>
+    <ns602:team xmlns:ns602="http://stadiums.org/pred/">Crystal Palace </ns602:team>
+    <ns603:team xmlns:ns603="http://stadiums.org/pred/">Fulham </ns603:team>
+    <ns604:team xmlns:ns604="http://stadiums.org/pred/">Millwall </ns604:team>
+    <ns605:team xmlns:ns605="http://stadiums.org/pred/">Queens Park Rangers </ns605:team>
+    <ns606:team xmlns:ns606="http://stadiums.org/pred/">Tottenham Hotspur </ns606:team>
+    <ns607:team xmlns:ns607="http://stadiums.org/pred/">West Ham United </ns607:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Lorient+">
+    <ns608:FDCOUK xmlns:ns608="http://stadiums.org/pred/">Lorient</ns608:FDCOUK>
+    <ns609:capacity xmlns:ns609="http://stadiums.org/pred/">18890</ns609:capacity>
+    <ns610:country xmlns:ns610="http://stadiums.org/pred/">France</ns610:country>
+    <ns611:latitude xmlns:ns611="http://stadiums.org/pred/">47.748747</ns611:latitude>
+    <ns612:longitude xmlns:ns612="http://stadiums.org/pred/">-3.369367</ns612:longitude>
+    <ns613:name xmlns:ns613="http://stadiums.org/pred/">Stade du Moustoir </ns613:name>
+    <ns614:team xmlns:ns614="http://stadiums.org/pred/">Lorient </ns614:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Luton">
+    <ns615:FDCOUK xmlns:ns615="http://stadiums.org/pred/">Luton</ns615:FDCOUK>
+    <ns616:capacity xmlns:ns616="http://stadiums.org/pred/">10356</ns616:capacity>
+    <ns617:country xmlns:ns617="http://stadiums.org/pred/">England</ns617:country>
+    <ns618:latitude xmlns:ns618="http://stadiums.org/pred/">51.884167</ns618:latitude>
+    <ns619:longitude xmlns:ns619="http://stadiums.org/pred/">-0.431667</ns619:longitude>
+    <ns620:name xmlns:ns620="http://stadiums.org/pred/">Kenilworth Road</ns620:name>
+    <ns621:team xmlns:ns621="http://stadiums.org/pred/">Luton Town</ns621:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Lyon+">
+    <ns622:FDCOUK xmlns:ns622="http://stadiums.org/pred/">Lyon</ns622:FDCOUK>
+    <ns623:capacity xmlns:ns623="http://stadiums.org/pred/">41842</ns623:capacity>
+    <ns624:country xmlns:ns624="http://stadiums.org/pred/">France</ns624:country>
+    <ns625:latitude xmlns:ns625="http://stadiums.org/pred/">45.723889</ns625:latitude>
+    <ns626:longitude xmlns:ns626="http://stadiums.org/pred/">4.832222</ns626:longitude>
+    <ns627:name xmlns:ns627="http://stadiums.org/pred/">Stade de Gerland </ns627:name>
+    <ns628:team xmlns:ns628="http://stadiums.org/pred/">Lyon </ns628:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/M%C3%A1laga+">
+    <ns629:FDCOUK xmlns:ns629="http://stadiums.org/pred/">Malaga</ns629:FDCOUK>
+    <ns630:capacity xmlns:ns630="http://stadiums.org/pred/">30044</ns630:capacity>
+    <ns631:country xmlns:ns631="http://stadiums.org/pred/">Spain</ns631:country>
+    <ns632:latitude xmlns:ns632="http://stadiums.org/pred/">36.734092</ns632:latitude>
+    <ns633:longitude xmlns:ns633="http://stadiums.org/pred/">-4.426422</ns633:longitude>
+    <ns634:name xmlns:ns634="http://stadiums.org/pred/">La Rosaleda </ns634:name>
+    <ns635:team xmlns:ns635="http://stadiums.org/pred/">Málaga </ns635:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/M%C3%B6nchengladbach+">
+    <ns636:FDCOUK xmlns:ns636="http://stadiums.org/pred/">M'gladbach</ns636:FDCOUK>
+    <ns637:capacity xmlns:ns637="http://stadiums.org/pred/">54010</ns637:capacity>
+    <ns638:country xmlns:ns638="http://stadiums.org/pred/">Germany</ns638:country>
+    <ns639:latitude xmlns:ns639="http://stadiums.org/pred/">51.174583</ns639:latitude>
+    <ns640:longitude xmlns:ns640="http://stadiums.org/pred/">6.385464</ns640:longitude>
+    <ns641:name xmlns:ns641="http://stadiums.org/pred/">Borussia-Park </ns641:name>
+    <ns642:team xmlns:ns642="http://stadiums.org/pred/">Borussia Mönchengladbach </ns642:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Madrid+">
+    <ns643:FDCOUK xmlns:ns643="http://stadiums.org/pred/">Ath Madrid</ns643:FDCOUK>
+    <ns644:FDCOUK xmlns:ns644="http://stadiums.org/pred/">Real Madrid</ns644:FDCOUK>
+    <ns645:FDCOUK xmlns:ns645="http://stadiums.org/pred/">Vallecano</ns645:FDCOUK>
+    <ns646:capacity xmlns:ns646="http://stadiums.org/pred/">15489</ns646:capacity>
+    <ns647:capacity xmlns:ns647="http://stadiums.org/pred/">54851</ns647:capacity>
+    <ns648:capacity xmlns:ns648="http://stadiums.org/pred/">85454</ns648:capacity>
+    <ns649:country xmlns:ns649="http://stadiums.org/pred/">Spain</ns649:country>
+    <ns650:latitude xmlns:ns650="http://stadiums.org/pred/">40.391944</ns650:latitude>
+    <ns651:latitude xmlns:ns651="http://stadiums.org/pred/">40.401719</ns651:latitude>
+    <ns652:latitude xmlns:ns652="http://stadiums.org/pred/">40.45306</ns652:latitude>
+    <ns653:longitude xmlns:ns653="http://stadiums.org/pred/">-3.658961</ns653:longitude>
+    <ns654:longitude xmlns:ns654="http://stadiums.org/pred/">-3.68835</ns654:longitude>
+    <ns655:longitude xmlns:ns655="http://stadiums.org/pred/">-3.720606</ns655:longitude>
+    <ns656:name xmlns:ns656="http://stadiums.org/pred/">Campo de Vallecas </ns656:name>
+    <ns657:name xmlns:ns657="http://stadiums.org/pred/">Santiago Bernabéu </ns657:name>
+    <ns658:name xmlns:ns658="http://stadiums.org/pred/">Vicente Calderón </ns658:name>
+    <ns659:team xmlns:ns659="http://stadiums.org/pred/">Atlético Madrid </ns659:team>
+    <ns660:team xmlns:ns660="http://stadiums.org/pred/">Rayo Vallecano </ns660:team>
+    <ns661:team xmlns:ns661="http://stadiums.org/pred/">Real Madrid </ns661:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Mainz+">
+    <ns662:FDCOUK xmlns:ns662="http://stadiums.org/pred/">Mainz</ns662:FDCOUK>
+    <ns663:capacity xmlns:ns663="http://stadiums.org/pred/">34000</ns663:capacity>
+    <ns664:country xmlns:ns664="http://stadiums.org/pred/">Germany</ns664:country>
+    <ns665:latitude xmlns:ns665="http://stadiums.org/pred/">49.984167</ns665:latitude>
+    <ns666:longitude xmlns:ns666="http://stadiums.org/pred/">8.224167</ns666:longitude>
+    <ns667:name xmlns:ns667="http://stadiums.org/pred/">Coface Arena </ns667:name>
+    <ns668:team xmlns:ns668="http://stadiums.org/pred/">1. FSV Mainz 05 </ns668:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Manchester+">
+    <ns669:FDCOUK xmlns:ns669="http://stadiums.org/pred/">Man City</ns669:FDCOUK>
+    <ns670:capacity xmlns:ns670="http://stadiums.org/pred/">47405</ns670:capacity>
+    <ns671:country xmlns:ns671="http://stadiums.org/pred/">England</ns671:country>
+    <ns672:latitude xmlns:ns672="http://stadiums.org/pred/">53.482989</ns672:latitude>
+    <ns673:longitude xmlns:ns673="http://stadiums.org/pred/">-2.200292</ns673:longitude>
+    <ns674:name xmlns:ns674="http://stadiums.org/pred/">Etihad Stadium</ns674:name>
+    <ns675:team xmlns:ns675="http://stadiums.org/pred/">Manchester City </ns675:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Marseille+">
+    <ns676:FDCOUK xmlns:ns676="http://stadiums.org/pred/">Marseille</ns676:FDCOUK>
+    <ns677:capacity xmlns:ns677="http://stadiums.org/pred/">48000</ns677:capacity>
+    <ns678:country xmlns:ns678="http://stadiums.org/pred/">France</ns678:country>
+    <ns679:latitude xmlns:ns679="http://stadiums.org/pred/">43.269722</ns679:latitude>
+    <ns680:longitude xmlns:ns680="http://stadiums.org/pred/">5.395833</ns680:longitude>
+    <ns681:name xmlns:ns681="http://stadiums.org/pred/">Stade Velodrome</ns681:name>
+    <ns682:team xmlns:ns682="http://stadiums.org/pred/">Marseille </ns682:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Middlesbrough+">
+    <ns683:FDCOUK xmlns:ns683="http://stadiums.org/pred/">Middlesbrough</ns683:FDCOUK>
+    <ns684:capacity xmlns:ns684="http://stadiums.org/pred/">34988</ns684:capacity>
+    <ns685:country xmlns:ns685="http://stadiums.org/pred/">England</ns685:country>
+    <ns686:latitude xmlns:ns686="http://stadiums.org/pred/">54.578333</ns686:latitude>
+    <ns687:longitude xmlns:ns687="http://stadiums.org/pred/">-1.216944</ns687:longitude>
+    <ns688:name xmlns:ns688="http://stadiums.org/pred/">Riverside Stadium </ns688:name>
+    <ns689:team xmlns:ns689="http://stadiums.org/pred/">Middlesbrough </ns689:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Monaco+">
+    <ns690:FDCOUK xmlns:ns690="http://stadiums.org/pred/">Monaco</ns690:FDCOUK>
+    <ns691:capacity xmlns:ns691="http://stadiums.org/pred/">18500</ns691:capacity>
+    <ns692:country xmlns:ns692="http://stadiums.org/pred/">France</ns692:country>
+    <ns693:latitude xmlns:ns693="http://stadiums.org/pred/">43.727606</ns693:latitude>
+    <ns694:longitude xmlns:ns694="http://stadiums.org/pred/">7.415614</ns694:longitude>
+    <ns695:name xmlns:ns695="http://stadiums.org/pred/">Stade Louis II </ns695:name>
+    <ns696:team xmlns:ns696="http://stadiums.org/pred/">AS Monaco </ns696:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Montb%C3%A9liard+">
+    <ns697:FDCOUK xmlns:ns697="http://stadiums.org/pred/">Sochaux</ns697:FDCOUK>
+    <ns698:capacity xmlns:ns698="http://stadiums.org/pred/">20005</ns698:capacity>
+    <ns699:country xmlns:ns699="http://stadiums.org/pred/">France</ns699:country>
+    <ns700:latitude xmlns:ns700="http://stadiums.org/pred/">47.512417</ns700:latitude>
+    <ns701:longitude xmlns:ns701="http://stadiums.org/pred/">6.8112</ns701:longitude>
+    <ns702:name xmlns:ns702="http://stadiums.org/pred/">Stade Auguste Bonal </ns702:name>
+    <ns703:team xmlns:ns703="http://stadiums.org/pred/">Sochaux </ns703:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Montpellier+">
+    <ns704:FDCOUK xmlns:ns704="http://stadiums.org/pred/">Montpellier</ns704:FDCOUK>
+    <ns705:capacity xmlns:ns705="http://stadiums.org/pred/">32939</ns705:capacity>
+    <ns706:country xmlns:ns706="http://stadiums.org/pred/">France</ns706:country>
+    <ns707:latitude xmlns:ns707="http://stadiums.org/pred/">43.622222</ns707:latitude>
+    <ns708:longitude xmlns:ns708="http://stadiums.org/pred/">3.811944</ns708:longitude>
+    <ns709:name xmlns:ns709="http://stadiums.org/pred/">Stade de la Mosson </ns709:name>
+    <ns710:team xmlns:ns710="http://stadiums.org/pred/">Montpellier </ns710:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Motherwell">
+    <ns711:FDCOUK xmlns:ns711="http://stadiums.org/pred/">Motherwell</ns711:FDCOUK>
+    <ns712:capacity xmlns:ns712="http://stadiums.org/pred/">13742</ns712:capacity>
+    <ns713:country xmlns:ns713="http://stadiums.org/pred/">Scotland</ns713:country>
+    <ns714:latitude xmlns:ns714="http://stadiums.org/pred/">55.779947</ns714:latitude>
+    <ns715:longitude xmlns:ns715="http://stadiums.org/pred/">-3.980078</ns715:longitude>
+    <ns716:name xmlns:ns716="http://stadiums.org/pred/">Fir Park </ns716:name>
+    <ns717:team xmlns:ns717="http://stadiums.org/pred/">Motherwell and Gretna </ns717:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Munich+">
+    <ns718:FDCOUK xmlns:ns718="http://stadiums.org/pred/">Bayern Munich</ns718:FDCOUK>
+    <ns719:capacity xmlns:ns719="http://stadiums.org/pred/">71000</ns719:capacity>
+    <ns720:country xmlns:ns720="http://stadiums.org/pred/">Germany</ns720:country>
+    <ns721:latitude xmlns:ns721="http://stadiums.org/pred/">48.218775</ns721:latitude>
+    <ns722:longitude xmlns:ns722="http://stadiums.org/pred/">11.624753</ns722:longitude>
+    <ns723:name xmlns:ns723="http://stadiums.org/pred/">Allianz Arena </ns723:name>
+    <ns724:team xmlns:ns724="http://stadiums.org/pred/">Bayern Munich </ns724:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Nantes+">
+    <ns725:FDCOUK xmlns:ns725="http://stadiums.org/pred/">Nantes</ns725:FDCOUK>
+    <ns726:capacity xmlns:ns726="http://stadiums.org/pred/">38285</ns726:capacity>
+    <ns727:country xmlns:ns727="http://stadiums.org/pred/">France</ns727:country>
+    <ns728:latitude xmlns:ns728="http://stadiums.org/pred/">47.255631</ns728:latitude>
+    <ns729:longitude xmlns:ns729="http://stadiums.org/pred/">-1.525375</ns729:longitude>
+    <ns730:name xmlns:ns730="http://stadiums.org/pred/">Stade de la Beaujoire </ns730:name>
+    <ns731:team xmlns:ns731="http://stadiums.org/pred/">Nantes </ns731:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Newcastle+upon+Tyne+">
+    <ns732:FDCOUK xmlns:ns732="http://stadiums.org/pred/">Newcastle</ns732:FDCOUK>
+    <ns733:capacity xmlns:ns733="http://stadiums.org/pred/">52409</ns733:capacity>
+    <ns734:country xmlns:ns734="http://stadiums.org/pred/">England</ns734:country>
+    <ns735:latitude xmlns:ns735="http://stadiums.org/pred/">54.975556</ns735:latitude>
+    <ns736:longitude xmlns:ns736="http://stadiums.org/pred/">-1.621667</ns736:longitude>
+    <ns737:name xmlns:ns737="http://stadiums.org/pred/">Sports Direct Arena</ns737:name>
+    <ns738:team xmlns:ns738="http://stadiums.org/pred/">Newcastle United </ns738:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Nice+">
+    <ns739:FDCOUK xmlns:ns739="http://stadiums.org/pred/">Nice</ns739:FDCOUK>
+    <ns740:capacity xmlns:ns740="http://stadiums.org/pred/">35624</ns740:capacity>
+    <ns741:country xmlns:ns741="http://stadiums.org/pred/">France</ns741:country>
+    <ns742:latitude xmlns:ns742="http://stadiums.org/pred/">43.723328</ns742:latitude>
+    <ns743:longitude xmlns:ns743="http://stadiums.org/pred/">7.258756</ns743:longitude>
+    <ns744:name xmlns:ns744="http://stadiums.org/pred/">Allianz Riviera </ns744:name>
+    <ns745:team xmlns:ns745="http://stadiums.org/pred/">Nice </ns745:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Norwich+">
+    <ns746:FDCOUK xmlns:ns746="http://stadiums.org/pred/">Norwich</ns746:FDCOUK>
+    <ns747:capacity xmlns:ns747="http://stadiums.org/pred/">27010</ns747:capacity>
+    <ns748:country xmlns:ns748="http://stadiums.org/pred/">England</ns748:country>
+    <ns749:latitude xmlns:ns749="http://stadiums.org/pred/">52.622128</ns749:latitude>
+    <ns750:longitude xmlns:ns750="http://stadiums.org/pred/">1.308653</ns750:longitude>
+    <ns751:name xmlns:ns751="http://stadiums.org/pred/">Carrow Road </ns751:name>
+    <ns752:team xmlns:ns752="http://stadiums.org/pred/">Norwich City </ns752:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Nottingham+">
+    <ns753:FDCOUK xmlns:ns753="http://stadiums.org/pred/">Nott'm Forest</ns753:FDCOUK>
+    <ns754:FDCOUK xmlns:ns754="http://stadiums.org/pred/">Notts County</ns754:FDCOUK>
+    <ns755:capacity xmlns:ns755="http://stadiums.org/pred/">20211</ns755:capacity>
+    <ns756:capacity xmlns:ns756="http://stadiums.org/pred/">30576</ns756:capacity>
+    <ns757:country xmlns:ns757="http://stadiums.org/pred/">England</ns757:country>
+    <ns758:latitude xmlns:ns758="http://stadiums.org/pred/">52.94</ns758:latitude>
+    <ns759:latitude xmlns:ns759="http://stadiums.org/pred/">52.9425</ns759:latitude>
+    <ns760:longitude xmlns:ns760="http://stadiums.org/pred/">-1.132778</ns760:longitude>
+    <ns761:longitude xmlns:ns761="http://stadiums.org/pred/">-1.137222</ns761:longitude>
+    <ns762:name xmlns:ns762="http://stadiums.org/pred/">City Ground </ns762:name>
+    <ns763:name xmlns:ns763="http://stadiums.org/pred/">Meadow Lane</ns763:name>
+    <ns764:team xmlns:ns764="http://stadiums.org/pred/">Nottingham Forest </ns764:team>
+    <ns765:team xmlns:ns765="http://stadiums.org/pred/">Notts County F.C.</ns765:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Nuremberg+">
+    <ns766:FDCOUK xmlns:ns766="http://stadiums.org/pred/">Nurnberg</ns766:FDCOUK>
+    <ns767:capacity xmlns:ns767="http://stadiums.org/pred/">50000</ns767:capacity>
+    <ns768:country xmlns:ns768="http://stadiums.org/pred/">Germany</ns768:country>
+    <ns769:latitude xmlns:ns769="http://stadiums.org/pred/">49.426111</ns769:latitude>
+    <ns770:longitude xmlns:ns770="http://stadiums.org/pred/">11.125833</ns770:longitude>
+    <ns771:name xmlns:ns771="http://stadiums.org/pred/">Grundig-Stadion </ns771:name>
+    <ns772:team xmlns:ns772="http://stadiums.org/pred/">1. FC Nürnberg </ns772:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Oldham">
+    <ns773:FDCOUK xmlns:ns773="http://stadiums.org/pred/">Oldham</ns773:FDCOUK>
+    <ns774:capacity xmlns:ns774="http://stadiums.org/pred/">10638</ns774:capacity>
+    <ns775:country xmlns:ns775="http://stadiums.org/pred/">England</ns775:country>
+    <ns776:latitude xmlns:ns776="http://stadiums.org/pred/">53.555278</ns776:latitude>
+    <ns777:longitude xmlns:ns777="http://stadiums.org/pred/">-2.128611</ns777:longitude>
+    <ns778:name xmlns:ns778="http://stadiums.org/pred/">Boundary Park</ns778:name>
+    <ns779:team xmlns:ns779="http://stadiums.org/pred/">Oldham Athletic</ns779:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Oxford">
+    <ns780:FDCOUK xmlns:ns780="http://stadiums.org/pred/">Oxford</ns780:FDCOUK>
+    <ns781:capacity xmlns:ns781="http://stadiums.org/pred/">12500</ns781:capacity>
+    <ns782:country xmlns:ns782="http://stadiums.org/pred/">England</ns782:country>
+    <ns783:latitude xmlns:ns783="http://stadiums.org/pred/">51.716419</ns783:latitude>
+    <ns784:longitude xmlns:ns784="http://stadiums.org/pred/">-1.208067</ns784:longitude>
+    <ns785:name xmlns:ns785="http://stadiums.org/pred/">Kassam Stadium</ns785:name>
+    <ns786:team xmlns:ns786="http://stadiums.org/pred/">Oxford United</ns786:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Paisley">
+    <ns787:FDCOUK xmlns:ns787="http://stadiums.org/pred/">St Mirren</ns787:FDCOUK>
+    <ns788:capacity xmlns:ns788="http://stadiums.org/pred/">8016</ns788:capacity>
+    <ns789:country xmlns:ns789="http://stadiums.org/pred/">Scotland</ns789:country>
+    <ns790:latitude xmlns:ns790="http://stadiums.org/pred/">55.850556</ns790:latitude>
+    <ns791:longitude xmlns:ns791="http://stadiums.org/pred/">-4.443889</ns791:longitude>
+    <ns792:name xmlns:ns792="http://stadiums.org/pred/">St. Mirren Park </ns792:name>
+    <ns793:team xmlns:ns793="http://stadiums.org/pred/">St. Mirren </ns793:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Palma+">
+    <ns794:FDCOUK xmlns:ns794="http://stadiums.org/pred/">Mallorca</ns794:FDCOUK>
+    <ns795:capacity xmlns:ns795="http://stadiums.org/pred/">23142</ns795:capacity>
+    <ns796:country xmlns:ns796="http://stadiums.org/pred/">Spain</ns796:country>
+    <ns797:latitude xmlns:ns797="http://stadiums.org/pred/">39.59</ns797:latitude>
+    <ns798:longitude xmlns:ns798="http://stadiums.org/pred/">2.63</ns798:longitude>
+    <ns799:name xmlns:ns799="http://stadiums.org/pred/">Iberostar Stadium </ns799:name>
+    <ns800:team xmlns:ns800="http://stadiums.org/pred/">Mallorca </ns800:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Pamplona+">
+    <ns801:FDCOUK xmlns:ns801="http://stadiums.org/pred/">Osasuna</ns801:FDCOUK>
+    <ns802:capacity xmlns:ns802="http://stadiums.org/pred/">19553</ns802:capacity>
+    <ns803:country xmlns:ns803="http://stadiums.org/pred/">Spain</ns803:country>
+    <ns804:latitude xmlns:ns804="http://stadiums.org/pred/">42.796667</ns804:latitude>
+    <ns805:longitude xmlns:ns805="http://stadiums.org/pred/">-1.636944</ns805:longitude>
+    <ns806:name xmlns:ns806="http://stadiums.org/pred/">El Sadar </ns806:name>
+    <ns807:team xmlns:ns807="http://stadiums.org/pred/">Osasuna </ns807:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Paris+">
+    <ns808:FDCOUK xmlns:ns808="http://stadiums.org/pred/">Paris SG</ns808:FDCOUK>
+    <ns809:capacity xmlns:ns809="http://stadiums.org/pred/">48712</ns809:capacity>
+    <ns810:country xmlns:ns810="http://stadiums.org/pred/">France</ns810:country>
+    <ns811:latitude xmlns:ns811="http://stadiums.org/pred/">48.841389</ns811:latitude>
+    <ns812:longitude xmlns:ns812="http://stadiums.org/pred/">2.253056</ns812:longitude>
+    <ns813:name xmlns:ns813="http://stadiums.org/pred/">Parc des Princes </ns813:name>
+    <ns814:team xmlns:ns814="http://stadiums.org/pred/">Paris Saint-Germain </ns814:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Perth">
+    <ns815:FDCOUK xmlns:ns815="http://stadiums.org/pred/">St Johnstone</ns815:FDCOUK>
+    <ns816:capacity xmlns:ns816="http://stadiums.org/pred/">10673</ns816:capacity>
+    <ns817:country xmlns:ns817="http://stadiums.org/pred/">Scotland</ns817:country>
+    <ns818:latitude xmlns:ns818="http://stadiums.org/pred/">56.409686</ns818:latitude>
+    <ns819:longitude xmlns:ns819="http://stadiums.org/pred/">-3.476928</ns819:longitude>
+    <ns820:name xmlns:ns820="http://stadiums.org/pred/">McDiarmid Park </ns820:name>
+    <ns821:team xmlns:ns821="http://stadiums.org/pred/">St. Johnstone </ns821:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Peterborough+">
+    <ns822:FDCOUK xmlns:ns822="http://stadiums.org/pred/">Peterboro</ns822:FDCOUK>
+    <ns823:capacity xmlns:ns823="http://stadiums.org/pred/">15460</ns823:capacity>
+    <ns824:country xmlns:ns824="http://stadiums.org/pred/">England</ns824:country>
+    <ns825:latitude xmlns:ns825="http://stadiums.org/pred/">52.564697</ns825:latitude>
+    <ns826:longitude xmlns:ns826="http://stadiums.org/pred/">-0.240406</ns826:longitude>
+    <ns827:name xmlns:ns827="http://stadiums.org/pred/">London Road Stadium </ns827:name>
+    <ns828:team xmlns:ns828="http://stadiums.org/pred/">Peterborough United </ns828:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Plymouth">
+    <ns829:FDCOUK xmlns:ns829="http://stadiums.org/pred/">Plymouth</ns829:FDCOUK>
+    <ns830:capacity xmlns:ns830="http://stadiums.org/pred/">17150</ns830:capacity>
+    <ns831:country xmlns:ns831="http://stadiums.org/pred/">England</ns831:country>
+    <ns832:latitude xmlns:ns832="http://stadiums.org/pred/">50.38805</ns832:latitude>
+    <ns833:longitude xmlns:ns833="http://stadiums.org/pred/">-4.150833</ns833:longitude>
+    <ns834:name xmlns:ns834="http://stadiums.org/pred/">Home Park</ns834:name>
+    <ns835:team xmlns:ns835="http://stadiums.org/pred/">Plymouth Argyle</ns835:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Portsmouth+">
+    <ns836:FDCOUK xmlns:ns836="http://stadiums.org/pred/">Portsmouth</ns836:FDCOUK>
+    <ns837:capacity xmlns:ns837="http://stadiums.org/pred/">20224</ns837:capacity>
+    <ns838:country xmlns:ns838="http://stadiums.org/pred/">England</ns838:country>
+    <ns839:latitude xmlns:ns839="http://stadiums.org/pred/">50.796389</ns839:latitude>
+    <ns840:longitude xmlns:ns840="http://stadiums.org/pred/">-1.063889</ns840:longitude>
+    <ns841:name xmlns:ns841="http://stadiums.org/pred/">Fratton Park </ns841:name>
+    <ns842:team xmlns:ns842="http://stadiums.org/pred/">Portsmouth </ns842:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Preston">
+    <ns843:FDCOUK xmlns:ns843="http://stadiums.org/pred/">Preston</ns843:FDCOUK>
+    <ns844:capacity xmlns:ns844="http://stadiums.org/pred/">23404</ns844:capacity>
+    <ns845:country xmlns:ns845="http://stadiums.org/pred/">England</ns845:country>
+    <ns846:latitude xmlns:ns846="http://stadiums.org/pred/">53.77222</ns846:latitude>
+    <ns847:longitude xmlns:ns847="http://stadiums.org/pred/">-2.68805</ns847:longitude>
+    <ns848:name xmlns:ns848="http://stadiums.org/pred/">Deepdale</ns848:name>
+    <ns849:team xmlns:ns849="http://stadiums.org/pred/">Preston North End </ns849:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Prittlewell">
+    <ns850:FDCOUK xmlns:ns850="http://stadiums.org/pred/">Southend</ns850:FDCOUK>
+    <ns851:capacity xmlns:ns851="http://stadiums.org/pred/">12392</ns851:capacity>
+    <ns852:country xmlns:ns852="http://stadiums.org/pred/">England</ns852:country>
+    <ns853:latitude xmlns:ns853="http://stadiums.org/pred/">51.549016</ns853:latitude>
+    <ns854:longitude xmlns:ns854="http://stadiums.org/pred/">0.7015583</ns854:longitude>
+    <ns855:name xmlns:ns855="http://stadiums.org/pred/">Roots Hall</ns855:name>
+    <ns856:team xmlns:ns856="http://stadiums.org/pred/">Southend United</ns856:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Reading+">
+    <ns857:FDCOUK xmlns:ns857="http://stadiums.org/pred/">Reading</ns857:FDCOUK>
+    <ns858:capacity xmlns:ns858="http://stadiums.org/pred/">24224</ns858:capacity>
+    <ns859:country xmlns:ns859="http://stadiums.org/pred/">England</ns859:country>
+    <ns860:latitude xmlns:ns860="http://stadiums.org/pred/">51.422222</ns860:latitude>
+    <ns861:longitude xmlns:ns861="http://stadiums.org/pred/">-0.982778</ns861:longitude>
+    <ns862:name xmlns:ns862="http://stadiums.org/pred/">Madejski Stadium </ns862:name>
+    <ns863:team xmlns:ns863="http://stadiums.org/pred/">Reading </ns863:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Reims+">
+    <ns864:FDCOUK xmlns:ns864="http://stadiums.org/pred/">Reims</ns864:FDCOUK>
+    <ns865:capacity xmlns:ns865="http://stadiums.org/pred/">21684</ns865:capacity>
+    <ns866:country xmlns:ns866="http://stadiums.org/pred/">France</ns866:country>
+    <ns867:latitude xmlns:ns867="http://stadiums.org/pred/">49.246667</ns867:latitude>
+    <ns868:longitude xmlns:ns868="http://stadiums.org/pred/">4.025</ns868:longitude>
+    <ns869:name xmlns:ns869="http://stadiums.org/pred/">Stade Auguste-Delaune II </ns869:name>
+    <ns870:team xmlns:ns870="http://stadiums.org/pred/">Reims </ns870:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Rennes+">
+    <ns871:FDCOUK xmlns:ns871="http://stadiums.org/pred/">Rennes</ns871:FDCOUK>
+    <ns872:capacity xmlns:ns872="http://stadiums.org/pred/">31127</ns872:capacity>
+    <ns873:country xmlns:ns873="http://stadiums.org/pred/">France</ns873:country>
+    <ns874:latitude xmlns:ns874="http://stadiums.org/pred/">48.107458</ns874:latitude>
+    <ns875:longitude xmlns:ns875="http://stadiums.org/pred/">-1.712839</ns875:longitude>
+    <ns876:name xmlns:ns876="http://stadiums.org/pred/">Stade de la Route de Lorient </ns876:name>
+    <ns877:team xmlns:ns877="http://stadiums.org/pred/">Rennes </ns877:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Rotherham">
+    <ns878:FDCOUK xmlns:ns878="http://stadiums.org/pred/">Rotherham</ns878:FDCOUK>
+    <ns879:capacity xmlns:ns879="http://stadiums.org/pred/">12021</ns879:capacity>
+    <ns880:country xmlns:ns880="http://stadiums.org/pred/">England</ns880:country>
+    <ns881:latitude xmlns:ns881="http://stadiums.org/pred/">53.4279</ns881:latitude>
+    <ns882:longitude xmlns:ns882="http://stadiums.org/pred/">-1.362</ns882:longitude>
+    <ns883:name xmlns:ns883="http://stadiums.org/pred/">New York Stadium</ns883:name>
+    <ns884:team xmlns:ns884="http://stadiums.org/pred/">Rotherham United</ns884:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Saint-%C3%89tienne+">
+    <ns885:FDCOUK xmlns:ns885="http://stadiums.org/pred/">St Etienne</ns885:FDCOUK>
+    <ns886:capacity xmlns:ns886="http://stadiums.org/pred/">26747</ns886:capacity>
+    <ns887:country xmlns:ns887="http://stadiums.org/pred/">France</ns887:country>
+    <ns888:latitude xmlns:ns888="http://stadiums.org/pred/">45.460833</ns888:latitude>
+    <ns889:longitude xmlns:ns889="http://stadiums.org/pred/">4.390278</ns889:longitude>
+    <ns890:name xmlns:ns890="http://stadiums.org/pred/">Stade Geoffroy-Guichard</ns890:name>
+    <ns891:team xmlns:ns891="http://stadiums.org/pred/">Saint-Étienne </ns891:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/San+Sebasti%C3%A1n+">
+    <ns892:FDCOUK xmlns:ns892="http://stadiums.org/pred/">Sociedad</ns892:FDCOUK>
+    <ns893:capacity xmlns:ns893="http://stadiums.org/pred/">32076</ns893:capacity>
+    <ns894:country xmlns:ns894="http://stadiums.org/pred/">Spain</ns894:country>
+    <ns895:latitude xmlns:ns895="http://stadiums.org/pred/">43.301378</ns895:latitude>
+    <ns896:longitude xmlns:ns896="http://stadiums.org/pred/">-1.973617</ns896:longitude>
+    <ns897:name xmlns:ns897="http://stadiums.org/pred/">Anoeta </ns897:name>
+    <ns898:team xmlns:ns898="http://stadiums.org/pred/">Real Sociedad </ns898:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Santander">
+    <ns899:FDCOUK xmlns:ns899="http://stadiums.org/pred/">Santander</ns899:FDCOUK>
+    <ns900:capacity xmlns:ns900="http://stadiums.org/pred/">22222</ns900:capacity>
+    <ns901:country xmlns:ns901="http://stadiums.org/pred/">Spain</ns901:country>
+    <ns902:latitude xmlns:ns902="http://stadiums.org/pred/">43.476389</ns902:latitude>
+    <ns903:longitude xmlns:ns903="http://stadiums.org/pred/">-3.793333</ns903:longitude>
+    <ns904:name xmlns:ns904="http://stadiums.org/pred/">Campos de Sport de El Sardinero</ns904:name>
+    <ns905:team xmlns:ns905="http://stadiums.org/pred/">Racing de Santander</ns905:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Scunthorpe">
+    <ns906:FDCOUK xmlns:ns906="http://stadiums.org/pred/">Scunthorpe</ns906:FDCOUK>
+    <ns907:capacity xmlns:ns907="http://stadiums.org/pred/">9088</ns907:capacity>
+    <ns908:country xmlns:ns908="http://stadiums.org/pred/">England</ns908:country>
+    <ns909:latitude xmlns:ns909="http://stadiums.org/pred/">53.586725</ns909:latitude>
+    <ns910:longitude xmlns:ns910="http://stadiums.org/pred/">-0.695266</ns910:longitude>
+    <ns911:name xmlns:ns911="http://stadiums.org/pred/">Glanford Park</ns911:name>
+    <ns912:team xmlns:ns912="http://stadiums.org/pred/">Scunthorpe United</ns912:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Seville+">
+    <ns913:FDCOUK xmlns:ns913="http://stadiums.org/pred/">Betis</ns913:FDCOUK>
+    <ns914:FDCOUK xmlns:ns914="http://stadiums.org/pred/">Sevilla</ns914:FDCOUK>
+    <ns915:capacity xmlns:ns915="http://stadiums.org/pred/">45500</ns915:capacity>
+    <ns916:capacity xmlns:ns916="http://stadiums.org/pred/">52500</ns916:capacity>
+    <ns917:country xmlns:ns917="http://stadiums.org/pred/">Spain</ns917:country>
+    <ns918:latitude xmlns:ns918="http://stadiums.org/pred/">37.356389</ns918:latitude>
+    <ns919:latitude xmlns:ns919="http://stadiums.org/pred/">37.384</ns919:latitude>
+    <ns920:longitude xmlns:ns920="http://stadiums.org/pred/">-5.9705</ns920:longitude>
+    <ns921:longitude xmlns:ns921="http://stadiums.org/pred/">-5.981389</ns921:longitude>
+    <ns922:name xmlns:ns922="http://stadiums.org/pred/">Benito Villamarín </ns922:name>
+    <ns923:name xmlns:ns923="http://stadiums.org/pred/">Ramón Sánchez Pizjuán </ns923:name>
+    <ns924:team xmlns:ns924="http://stadiums.org/pred/">Betis </ns924:team>
+    <ns925:team xmlns:ns925="http://stadiums.org/pred/">Sevilla </ns925:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Sheffield">
+    <ns926:FDCOUK xmlns:ns926="http://stadiums.org/pred/">Sheffield United</ns926:FDCOUK>
+    <ns927:FDCOUK xmlns:ns927="http://stadiums.org/pred/">Sheffield Weds</ns927:FDCOUK>
+    <ns928:capacity xmlns:ns928="http://stadiums.org/pred/">32702</ns928:capacity>
+    <ns929:capacity xmlns:ns929="http://stadiums.org/pred/">39732</ns929:capacity>
+    <ns930:country xmlns:ns930="http://stadiums.org/pred/">England</ns930:country>
+    <ns931:latitude xmlns:ns931="http://stadiums.org/pred/">53.370278</ns931:latitude>
+    <ns932:latitude xmlns:ns932="http://stadiums.org/pred/">53.411389</ns932:latitude>
+    <ns933:longitude xmlns:ns933="http://stadiums.org/pred/">-1.470833</ns933:longitude>
+    <ns934:longitude xmlns:ns934="http://stadiums.org/pred/">-1.500556</ns934:longitude>
+    <ns935:name xmlns:ns935="http://stadiums.org/pred/">Bramall Lane</ns935:name>
+    <ns936:name xmlns:ns936="http://stadiums.org/pred/">Hillsborough</ns936:name>
+    <ns937:team xmlns:ns937="http://stadiums.org/pred/">Sheffield United</ns937:team>
+    <ns938:team xmlns:ns938="http://stadiums.org/pred/">Sheffield Wednesday</ns938:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Sinsheim+">
+    <ns939:FDCOUK xmlns:ns939="http://stadiums.org/pred/">Hoffenheim</ns939:FDCOUK>
+    <ns940:capacity xmlns:ns940="http://stadiums.org/pred/">30150</ns940:capacity>
+    <ns941:country xmlns:ns941="http://stadiums.org/pred/">Germany</ns941:country>
+    <ns942:latitude xmlns:ns942="http://stadiums.org/pred/">49.239008</ns942:latitude>
+    <ns943:longitude xmlns:ns943="http://stadiums.org/pred/">8.888281</ns943:longitude>
+    <ns944:name xmlns:ns944="http://stadiums.org/pred/">Rhein-Neckar Arena </ns944:name>
+    <ns945:team xmlns:ns945="http://stadiums.org/pred/">TSG 1899 Hoffenheim </ns945:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Southampton+">
+    <ns946:FDCOUK xmlns:ns946="http://stadiums.org/pred/">Southampton</ns946:FDCOUK>
+    <ns947:capacity xmlns:ns947="http://stadiums.org/pred/">32689</ns947:capacity>
+    <ns948:country xmlns:ns948="http://stadiums.org/pred/">England</ns948:country>
+    <ns949:latitude xmlns:ns949="http://stadiums.org/pred/">50.905833</ns949:latitude>
+    <ns950:longitude xmlns:ns950="http://stadiums.org/pred/">-1.391111</ns950:longitude>
+    <ns951:name xmlns:ns951="http://stadiums.org/pred/">St Mary's Stadium </ns951:name>
+    <ns952:team xmlns:ns952="http://stadiums.org/pred/">Southampton </ns952:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Stockport">
+    <ns953:FDCOUK xmlns:ns953="http://stadiums.org/pred/">Stockport</ns953:FDCOUK>
+    <ns954:capacity xmlns:ns954="http://stadiums.org/pred/">10841</ns954:capacity>
+    <ns955:country xmlns:ns955="http://stadiums.org/pred/">England</ns955:country>
+    <ns956:latitude xmlns:ns956="http://stadiums.org/pred/">53.39972</ns956:latitude>
+    <ns957:longitude xmlns:ns957="http://stadiums.org/pred/">-2.16638</ns957:longitude>
+    <ns958:name xmlns:ns958="http://stadiums.org/pred/">Edgeley Park</ns958:name>
+    <ns959:team xmlns:ns959="http://stadiums.org/pred/">Stockport County</ns959:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Stoke-on-Trent+">
+    <ns960:FDCOUK xmlns:ns960="http://stadiums.org/pred/">Stoke</ns960:FDCOUK>
+    <ns961:capacity xmlns:ns961="http://stadiums.org/pred/">27740</ns961:capacity>
+    <ns962:country xmlns:ns962="http://stadiums.org/pred/">England</ns962:country>
+    <ns963:latitude xmlns:ns963="http://stadiums.org/pred/">52.988333</ns963:latitude>
+    <ns964:longitude xmlns:ns964="http://stadiums.org/pred/">-2.175556</ns964:longitude>
+    <ns965:name xmlns:ns965="http://stadiums.org/pred/">Britannia Stadium </ns965:name>
+    <ns966:team xmlns:ns966="http://stadiums.org/pred/">Stoke City </ns966:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Stretford+">
+    <ns967:FDCOUK xmlns:ns967="http://stadiums.org/pred/">Man United</ns967:FDCOUK>
+    <ns968:capacity xmlns:ns968="http://stadiums.org/pred/">75811</ns968:capacity>
+    <ns969:country xmlns:ns969="http://stadiums.org/pred/">England</ns969:country>
+    <ns970:latitude xmlns:ns970="http://stadiums.org/pred/">53.463056</ns970:latitude>
+    <ns971:longitude xmlns:ns971="http://stadiums.org/pred/">-2.291389</ns971:longitude>
+    <ns972:name xmlns:ns972="http://stadiums.org/pred/">Old Trafford </ns972:name>
+    <ns973:team xmlns:ns973="http://stadiums.org/pred/">Manchester United </ns973:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Stuttgart+">
+    <ns974:FDCOUK xmlns:ns974="http://stadiums.org/pred/">Stuttgart</ns974:FDCOUK>
+    <ns975:capacity xmlns:ns975="http://stadiums.org/pred/">60441</ns975:capacity>
+    <ns976:country xmlns:ns976="http://stadiums.org/pred/">Germany</ns976:country>
+    <ns977:latitude xmlns:ns977="http://stadiums.org/pred/">48.792269</ns977:latitude>
+    <ns978:longitude xmlns:ns978="http://stadiums.org/pred/">9.232031</ns978:longitude>
+    <ns979:name xmlns:ns979="http://stadiums.org/pred/">Mercedes-Benz Arena </ns979:name>
+    <ns980:team xmlns:ns980="http://stadiums.org/pred/">VfB Stuttgart </ns980:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Sunderland+">
+    <ns981:FDCOUK xmlns:ns981="http://stadiums.org/pred/">Sunderland</ns981:FDCOUK>
+    <ns982:capacity xmlns:ns982="http://stadiums.org/pred/">48707</ns982:capacity>
+    <ns983:country xmlns:ns983="http://stadiums.org/pred/">England</ns983:country>
+    <ns984:latitude xmlns:ns984="http://stadiums.org/pred/">54.9144</ns984:latitude>
+    <ns985:longitude xmlns:ns985="http://stadiums.org/pred/">-1.3882</ns985:longitude>
+    <ns986:name xmlns:ns986="http://stadiums.org/pred/">Stadium of Light </ns986:name>
+    <ns987:team xmlns:ns987="http://stadiums.org/pred/">Sunderland </ns987:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Swansea+">
+    <ns988:FDCOUK xmlns:ns988="http://stadiums.org/pred/">Swansea</ns988:FDCOUK>
+    <ns989:capacity xmlns:ns989="http://stadiums.org/pred/">20520</ns989:capacity>
+    <ns990:country xmlns:ns990="http://stadiums.org/pred/">England</ns990:country>
+    <ns991:latitude xmlns:ns991="http://stadiums.org/pred/">51.6422</ns991:latitude>
+    <ns992:longitude xmlns:ns992="http://stadiums.org/pred/">-3.9351</ns992:longitude>
+    <ns993:name xmlns:ns993="http://stadiums.org/pred/">Liberty Stadium </ns993:name>
+    <ns994:team xmlns:ns994="http://stadiums.org/pred/">Swansea City </ns994:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Swindon">
+    <ns995:FDCOUK xmlns:ns995="http://stadiums.org/pred/">Swindon</ns995:FDCOUK>
+    <ns996:capacity xmlns:ns996="http://stadiums.org/pred/">15728</ns996:capacity>
+    <ns997:country xmlns:ns997="http://stadiums.org/pred/">England</ns997:country>
+    <ns998:latitude xmlns:ns998="http://stadiums.org/pred/">51.564444</ns998:latitude>
+    <ns999:longitude xmlns:ns999="http://stadiums.org/pred/">-1.770556</ns999:longitude>
+    <ns1000:name xmlns:ns1000="http://stadiums.org/pred/">County Ground</ns1000:name>
+    <ns1001:team xmlns:ns1001="http://stadiums.org/pred/">Swindon Town</ns1001:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Tomblaine+">
+    <ns1002:FDCOUK xmlns:ns1002="http://stadiums.org/pred/">Nancy</ns1002:FDCOUK>
+    <ns1003:capacity xmlns:ns1003="http://stadiums.org/pred/">20085</ns1003:capacity>
+    <ns1004:country xmlns:ns1004="http://stadiums.org/pred/">France</ns1004:country>
+    <ns1005:latitude xmlns:ns1005="http://stadiums.org/pred/">48.6955</ns1005:latitude>
+    <ns1006:longitude xmlns:ns1006="http://stadiums.org/pred/">6.210687</ns1006:longitude>
+    <ns1007:name xmlns:ns1007="http://stadiums.org/pred/">Stade Marcel Picot </ns1007:name>
+    <ns1008:team xmlns:ns1008="http://stadiums.org/pred/">Nancy</ns1008:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Toulouse+">
+    <ns1009:FDCOUK xmlns:ns1009="http://stadiums.org/pred/">Toulouse</ns1009:FDCOUK>
+    <ns1010:capacity xmlns:ns1010="http://stadiums.org/pred/">35470</ns1010:capacity>
+    <ns1011:country xmlns:ns1011="http://stadiums.org/pred/">France</ns1011:country>
+    <ns1012:latitude xmlns:ns1012="http://stadiums.org/pred/">43.583056</ns1012:latitude>
+    <ns1013:longitude xmlns:ns1013="http://stadiums.org/pred/">1.434167</ns1013:longitude>
+    <ns1014:name xmlns:ns1014="http://stadiums.org/pred/">Stadium Municipal</ns1014:name>
+    <ns1015:team xmlns:ns1015="http://stadiums.org/pred/">Toulouse </ns1015:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Troyes">
+    <ns1016:FDCOUK xmlns:ns1016="http://stadiums.org/pred/">Troyes</ns1016:FDCOUK>
+    <ns1017:capacity xmlns:ns1017="http://stadiums.org/pred/">21877</ns1017:capacity>
+    <ns1018:country xmlns:ns1018="http://stadiums.org/pred/">France</ns1018:country>
+    <ns1019:latitude xmlns:ns1019="http://stadiums.org/pred/">48.307561</ns1019:latitude>
+    <ns1020:longitude xmlns:ns1020="http://stadiums.org/pred/">4.098458</ns1020:longitude>
+    <ns1021:name xmlns:ns1021="http://stadiums.org/pred/">Stade de l'Aube </ns1021:name>
+    <ns1022:team xmlns:ns1022="http://stadiums.org/pred/">Troyes </ns1022:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Valencia+">
+    <ns1023:FDCOUK xmlns:ns1023="http://stadiums.org/pred/">Levante</ns1023:FDCOUK>
+    <ns1024:FDCOUK xmlns:ns1024="http://stadiums.org/pred/">Valencia</ns1024:FDCOUK>
+    <ns1025:capacity xmlns:ns1025="http://stadiums.org/pred/">25534</ns1025:capacity>
+    <ns1026:capacity xmlns:ns1026="http://stadiums.org/pred/">55000</ns1026:capacity>
+    <ns1027:country xmlns:ns1027="http://stadiums.org/pred/">Spain</ns1027:country>
+    <ns1028:latitude xmlns:ns1028="http://stadiums.org/pred/">39.474656</ns1028:latitude>
+    <ns1029:latitude xmlns:ns1029="http://stadiums.org/pred/">39.494722</ns1029:latitude>
+    <ns1030:longitude xmlns:ns1030="http://stadiums.org/pred/">-0.358361</ns1030:longitude>
+    <ns1031:longitude xmlns:ns1031="http://stadiums.org/pred/">-0.364167</ns1031:longitude>
+    <ns1032:name xmlns:ns1032="http://stadiums.org/pred/">Ciutat de València </ns1032:name>
+    <ns1033:name xmlns:ns1033="http://stadiums.org/pred/">Mestalla </ns1033:name>
+    <ns1034:team xmlns:ns1034="http://stadiums.org/pred/">Levante </ns1034:team>
+    <ns1035:team xmlns:ns1035="http://stadiums.org/pred/">Valencia </ns1035:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Valenciennes+">
+    <ns1036:FDCOUK xmlns:ns1036="http://stadiums.org/pred/">Valenciennes</ns1036:FDCOUK>
+    <ns1037:capacity xmlns:ns1037="http://stadiums.org/pred/">25172</ns1037:capacity>
+    <ns1038:country xmlns:ns1038="http://stadiums.org/pred/">France</ns1038:country>
+    <ns1039:latitude xmlns:ns1039="http://stadiums.org/pred/">50.348131</ns1039:latitude>
+    <ns1040:longitude xmlns:ns1040="http://stadiums.org/pred/">3.533027</ns1040:longitude>
+    <ns1041:name xmlns:ns1041="http://stadiums.org/pred/">Stade du Hainaut </ns1041:name>
+    <ns1042:team xmlns:ns1042="http://stadiums.org/pred/">Valenciennes </ns1042:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Valladolid+">
+    <ns1043:FDCOUK xmlns:ns1043="http://stadiums.org/pred/">Valladolid</ns1043:FDCOUK>
+    <ns1044:capacity xmlns:ns1044="http://stadiums.org/pred/">26512</ns1044:capacity>
+    <ns1045:country xmlns:ns1045="http://stadiums.org/pred/">Spain</ns1045:country>
+    <ns1046:latitude xmlns:ns1046="http://stadiums.org/pred/">41.644444</ns1046:latitude>
+    <ns1047:longitude xmlns:ns1047="http://stadiums.org/pred/">-4.761111</ns1047:longitude>
+    <ns1048:name xmlns:ns1048="http://stadiums.org/pred/">Nuevo José Zorrilla </ns1048:name>
+    <ns1049:team xmlns:ns1049="http://stadiums.org/pred/">Valladolid </ns1049:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Vigo+">
+    <ns1050:FDCOUK xmlns:ns1050="http://stadiums.org/pred/">Celta</ns1050:FDCOUK>
+    <ns1051:capacity xmlns:ns1051="http://stadiums.org/pred/">31800</ns1051:capacity>
+    <ns1052:country xmlns:ns1052="http://stadiums.org/pred/">Spain</ns1052:country>
+    <ns1053:latitude xmlns:ns1053="http://stadiums.org/pred/">42.211842</ns1053:latitude>
+    <ns1054:longitude xmlns:ns1054="http://stadiums.org/pred/">-8.739711</ns1054:longitude>
+    <ns1055:name xmlns:ns1055="http://stadiums.org/pred/">Balaídos </ns1055:name>
+    <ns1056:team xmlns:ns1056="http://stadiums.org/pred/">Celta de Vigo </ns1056:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Villarreal+">
+    <ns1057:FDCOUK xmlns:ns1057="http://stadiums.org/pred/">Villarreal</ns1057:FDCOUK>
+    <ns1058:capacity xmlns:ns1058="http://stadiums.org/pred/">24890</ns1058:capacity>
+    <ns1059:country xmlns:ns1059="http://stadiums.org/pred/">Spain</ns1059:country>
+    <ns1060:latitude xmlns:ns1060="http://stadiums.org/pred/">39.944167</ns1060:latitude>
+    <ns1061:longitude xmlns:ns1061="http://stadiums.org/pred/">-0.103611</ns1061:longitude>
+    <ns1062:name xmlns:ns1062="http://stadiums.org/pred/">El Madrigal </ns1062:name>
+    <ns1063:team xmlns:ns1063="http://stadiums.org/pred/">Villarreal </ns1063:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Villeneuve-d%27Ascq+">
+    <ns1064:FDCOUK xmlns:ns1064="http://stadiums.org/pred/">Lille</ns1064:FDCOUK>
+    <ns1065:capacity xmlns:ns1065="http://stadiums.org/pred/">50186</ns1065:capacity>
+    <ns1066:country xmlns:ns1066="http://stadiums.org/pred/">France</ns1066:country>
+    <ns1067:latitude xmlns:ns1067="http://stadiums.org/pred/">50.611883</ns1067:latitude>
+    <ns1068:longitude xmlns:ns1068="http://stadiums.org/pred/">3.130428</ns1068:longitude>
+    <ns1069:name xmlns:ns1069="http://stadiums.org/pred/">Stade Pierre-Mauroy </ns1069:name>
+    <ns1070:team xmlns:ns1070="http://stadiums.org/pred/">Lille </ns1070:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Walsall">
+    <ns1071:FDCOUK xmlns:ns1071="http://stadiums.org/pred/">Walsall</ns1071:FDCOUK>
+    <ns1072:capacity xmlns:ns1072="http://stadiums.org/pred/">11300</ns1072:capacity>
+    <ns1073:country xmlns:ns1073="http://stadiums.org/pred/">England</ns1073:country>
+    <ns1074:latitude xmlns:ns1074="http://stadiums.org/pred/">52.565433</ns1074:latitude>
+    <ns1075:longitude xmlns:ns1075="http://stadiums.org/pred/">-1.9907055</ns1075:longitude>
+    <ns1076:name xmlns:ns1076="http://stadiums.org/pred/">Banks's Stadium</ns1076:name>
+    <ns1077:team xmlns:ns1077="http://stadiums.org/pred/">Walsall F.C.</ns1077:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Watford+">
+    <ns1078:FDCOUK xmlns:ns1078="http://stadiums.org/pred/">Watford</ns1078:FDCOUK>
+    <ns1079:capacity xmlns:ns1079="http://stadiums.org/pred/">23500</ns1079:capacity>
+    <ns1080:country xmlns:ns1080="http://stadiums.org/pred/">England</ns1080:country>
+    <ns1081:latitude xmlns:ns1081="http://stadiums.org/pred/">51.649836</ns1081:latitude>
+    <ns1082:longitude xmlns:ns1082="http://stadiums.org/pred/">-0.401486</ns1082:longitude>
+    <ns1083:name xmlns:ns1083="http://stadiums.org/pred/">Vicarage Road </ns1083:name>
+    <ns1084:team xmlns:ns1084="http://stadiums.org/pred/">Watford </ns1084:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/West+Bromwich+">
+    <ns1085:FDCOUK xmlns:ns1085="http://stadiums.org/pred/">West Brom</ns1085:FDCOUK>
+    <ns1086:capacity xmlns:ns1086="http://stadiums.org/pred/">27877</ns1086:capacity>
+    <ns1087:country xmlns:ns1087="http://stadiums.org/pred/">England</ns1087:country>
+    <ns1088:latitude xmlns:ns1088="http://stadiums.org/pred/">52.509167</ns1088:latitude>
+    <ns1089:longitude xmlns:ns1089="http://stadiums.org/pred/">-1.963889</ns1089:longitude>
+    <ns1090:name xmlns:ns1090="http://stadiums.org/pred/">The Hawthorns </ns1090:name>
+    <ns1091:team xmlns:ns1091="http://stadiums.org/pred/">West Bromwich Albion </ns1091:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Wigan+">
+    <ns1092:FDCOUK xmlns:ns1092="http://stadiums.org/pred/">Wigan</ns1092:FDCOUK>
+    <ns1093:capacity xmlns:ns1093="http://stadiums.org/pred/">25133</ns1093:capacity>
+    <ns1094:country xmlns:ns1094="http://stadiums.org/pred/">England</ns1094:country>
+    <ns1095:latitude xmlns:ns1095="http://stadiums.org/pred/">53.547778</ns1095:latitude>
+    <ns1096:longitude xmlns:ns1096="http://stadiums.org/pred/">-2.653889</ns1096:longitude>
+    <ns1097:name xmlns:ns1097="http://stadiums.org/pred/">DW Stadium </ns1097:name>
+    <ns1098:team xmlns:ns1098="http://stadiums.org/pred/">Wigan Athletic </ns1098:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Wolfsburg+">
+    <ns1099:FDCOUK xmlns:ns1099="http://stadiums.org/pred/">Wolfsburg</ns1099:FDCOUK>
+    <ns1100:capacity xmlns:ns1100="http://stadiums.org/pred/">30000</ns1100:capacity>
+    <ns1101:country xmlns:ns1101="http://stadiums.org/pred/">Germany</ns1101:country>
+    <ns1102:latitude xmlns:ns1102="http://stadiums.org/pred/">52.431944</ns1102:latitude>
+    <ns1103:longitude xmlns:ns1103="http://stadiums.org/pred/">10.803889</ns1103:longitude>
+    <ns1104:name xmlns:ns1104="http://stadiums.org/pred/">Volkswagen Arena </ns1104:name>
+    <ns1105:team xmlns:ns1105="http://stadiums.org/pred/">VfL Wolfsburg </ns1105:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Wolverhampton+">
+    <ns1106:FDCOUK xmlns:ns1106="http://stadiums.org/pred/">Wolves</ns1106:FDCOUK>
+    <ns1107:capacity xmlns:ns1107="http://stadiums.org/pred/">27828</ns1107:capacity>
+    <ns1108:country xmlns:ns1108="http://stadiums.org/pred/">England</ns1108:country>
+    <ns1109:latitude xmlns:ns1109="http://stadiums.org/pred/">52.590278</ns1109:latitude>
+    <ns1110:longitude xmlns:ns1110="http://stadiums.org/pred/">-2.130278</ns1110:longitude>
+    <ns1111:name xmlns:ns1111="http://stadiums.org/pred/">Molineux Stadium </ns1111:name>
+    <ns1112:team xmlns:ns1112="http://stadiums.org/pred/">Wolverhampton Wanderers </ns1112:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Yeovil">
+    <ns1113:FDCOUK xmlns:ns1113="http://stadiums.org/pred/">Yeovil</ns1113:FDCOUK>
+    <ns1114:capacity xmlns:ns1114="http://stadiums.org/pred/">9565</ns1114:capacity>
+    <ns1115:country xmlns:ns1115="http://stadiums.org/pred/">England</ns1115:country>
+    <ns1116:latitude xmlns:ns1116="http://stadiums.org/pred/">50.95027</ns1116:latitude>
+    <ns1117:longitude xmlns:ns1117="http://stadiums.org/pred/">-2.67488</ns1117:longitude>
+    <ns1118:name xmlns:ns1118="http://stadiums.org/pred/">Huish Park</ns1118:name>
+    <ns1119:team xmlns:ns1119="http://stadiums.org/pred/">Yeovil Town</ns1119:team>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stadiums.org/Zaragoza+">
+    <ns1120:FDCOUK xmlns:ns1120="http://stadiums.org/pred/">Zaragoza</ns1120:FDCOUK>
+    <ns1121:capacity xmlns:ns1121="http://stadiums.org/pred/">34596</ns1121:capacity>
+    <ns1122:country xmlns:ns1122="http://stadiums.org/pred/">Spain</ns1122:country>
+    <ns1123:latitude xmlns:ns1123="http://stadiums.org/pred/">41.636592</ns1123:latitude>
+    <ns1124:longitude xmlns:ns1124="http://stadiums.org/pred/">-0.901822</ns1124:longitude>
+    <ns1125:name xmlns:ns1125="http://stadiums.org/pred/">La Romareda </ns1125:name>
+    <ns1126:team xmlns:ns1126="http://stadiums.org/pred/">Zaragoza </ns1126:team>
+  </rdf:Description>
+</rdf:RDF>
