@@ -8,21 +8,21 @@ from s4api.swagger import ApiClient
 #imprime na consola os valores cidade - equipa de equipas de inglaterra
 def load(request):
     endpoint = "http://localhost:7200"
-    repo_name = "stadiums"
+    repo_name = "football"
     client = ApiClient(endpoint = endpoint)
     acessor = GraphDBApi(client)
     query = """
-            PREFIX stad:<http://stadiums.org/pred/>
-            SELECT ?city ?teamname
+            PREFIX fut:<http://worldfootball.org/pred/table/>
+            SELECT ?team ?teamname ?pos ?points
             WHERE {
-                ?city stad:country "England" .
-                ?city stad:team ?teamname .
+                ?team fut:team ?teamname .
+                ?team fut:position ?pos .
+                ?team fut:pts ?points .
             }
             """
     payload_query = {"query": query}
     res = acessor.sparql_select(body = payload_query, repo_name = repo_name)
     res = json.loads(res)
     for e in res['results']['bindings']:
-        a, b, c, d = e['city']['value'].split("/")
-        print(d + ' - ' + e['teamname']['value'])
+        print(e['teamname']['value'] + " - " + e['pos']['value'] + " - " + e['points']['value'])
     return render(request, 'index.html', {})
