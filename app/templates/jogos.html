@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+
+			<!-- Header -->
+			<header id="header">
+				<h4>Resultados</h4>
+			</header>
+		    </br>
+			
+			<div class="row">
+
+					{%  for s,t in rr.items %}
+					<div class="col-12 col-12-medium">
+
+						<h2 class="title">{{ t }} Jornada</h2>
+					</div>
+					
+					{%  for k,v in ronda.items %}
+					{% if t == v %}
+					{% with y=casa|get_item:k y1=fora|get_item:k y3=resultado|get_item:k y4=estadio|get_item:k y5=quando|get_item:k %}
+						<div class="col-6 col-12-medium">
+							<a class="button">{{ y }}  {{ y3 }} {{ y1 }}</a>
+						</div>
+					{% endwith %}
+					{% endif %}
+					{% endfor %}
+					{% endfor %}
+		</div>
+
+
+{% endblock %}

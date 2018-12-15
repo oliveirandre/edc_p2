@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+{% block content %}
+
+										<!-- Header -->
+			<header id="header">
+					<h4>Tabela Classificativa</h4>
+			</header>
+		</br>
+			<div class="table-wrapper">
+				<table class="alt">
+					<thead>
+						<tr>
+							<th>Posicao</th>
+							<th>Name</th>
+							<th>Vitórias</th>
+							<th>Empates</th>
+							<th>Derrotas</th>
+							<th>Golos</th>
+							<th>Pontos</th>
+						</tr>
+					</thead>
+					<tbody>
+							{%  for k,v in nomeclube.items %}
+							{% with y=vitorias|get_item:k y1=empates|get_item:k y3=derrotas|get_item:k y4=posicaoclube|get_item:k y5=golos|get_item:k y6=pontos|get_item:k %}
+							<tr>
+									<td>{{ y4 }}</td>
+									<td>{{ v }}</td>
+									<td>{{ y }}</td>
+									<td>{{ y1 }}</td>
+									<td>{{ y3 }}</td>
+									<td>{{ y5 }}</td>
+									<td>{{ y6 }}</td>
+							</tr>
+							{% endwith %}
+							{% endfor %}
+					</tbody>
+
+				</table>
+			</div>
+
+{% endblock %}

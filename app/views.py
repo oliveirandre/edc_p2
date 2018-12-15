@@ -2,6 +2,8 @@ from django.shortcuts import render
 import json
 from s4api.graphdb_api import GraphDBApi
 from s4api.swagger import ApiClient
+from django.template.defaulttags import register
+
 
 # Create your views here.
 
@@ -39,9 +41,9 @@ def tabela(request):
     res = json.loads(res)
     for e in res['results']['bindings']:
         nomeclube[e['team']['value']] = e['teamname']['value']
-        vitorias[e['team']['value']] = e['hw']['value'] + e['aw']['value']
-        empates[e['team']['value']] = e['hd']['value'] + e['ad']['value']
-        derrotas[e['team']['value']] = e['hl']['value'] + e['al']['value']
+        vitorias[e['team']['value']] = int(e['hw']['value']) + int(e['aw']['value'])
+        empates[e['team']['value']] = int(e['hd']['value']) + int(e['ad']['value'])
+        derrotas[e['team']['value']] = int(e['hl']['value']) + int(e['al']['value'])
         goaldif[e['team']['value']] = e['goaldif']['value']
         posicao[e['team']['value']] = e['pos']['value']
         pontos[e['team']['value']] = e['points']['value']
@@ -55,7 +57,7 @@ def tabela(request):
         'pontos': pontos,
     }
     print(tparams)
-    return render(request, 'index.html', tparams)
+    return render(request, 'tabela.html', tparams)
 
 
 def jogos(request):
@@ -92,6 +94,11 @@ def jogos(request):
         resultado[e['game']['value']] = e['result']['value']
         estadio[e['game']['value']] = e['stadium']['value']
         quando[e['game']['value']] = e['when']['value']
+    
+    rounds = dict()
+
+    for e in range(16):
+        rounds[e]=str(e+1)
 
     tparams = {
         'ronda': ronda,
@@ -99,10 +106,11 @@ def jogos(request):
         'fora': fora,
         'resultado': resultado,
         'estadio': estadio,
-        'quando': quando
+        'quando': quando,
+        'rr' :rounds,
     }
     print(tparams)
-    return render(request, 'index.html', tparams)
+    return render(request, 'jogos.html', tparams)
 
 
 def jogadores(request):
@@ -145,3 +153,12 @@ def jogadores(request):
     }
     print(tparams)
     return render(request, 'index.html', tparams)
+
+def main (request):
+	return render(request, 'layout.html', {})
+
+
+
+@register.filter
+def get_item(dictionary, key):
+    return dictionary.get(key)
