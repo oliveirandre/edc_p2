@@ -40,6 +40,7 @@ def tabela(request):
     res = acessor.sparql_select(body = payload_query, repo_name = repo_name)
     res = json.loads(res)
     for e in res['results']['bindings']:
+
         nomeclube[e['team']['value']] = e['teamname']['value']
         vitorias[e['team']['value']] = int(e['hw']['value']) + int(e['aw']['value'])
         empates[e['team']['value']] = int(e['hd']['value']) + int(e['ad']['value'])
@@ -67,10 +68,12 @@ def jogos(request):
     resultado = dict()
     estadio = dict()
     quando = dict()
+    ganhou = dict()
     endpoint = "http://localhost:7200"
     repo_name = "football"
     client = ApiClient(endpoint=endpoint)
     acessor = GraphDBApi(client)
+
     query = """
             PREFIX fut:<http://worldfootball.org/pred/>
             SELECT ?game ?roundnumber ?home ?away ?result ?stadium ?when
@@ -94,6 +97,14 @@ def jogos(request):
         resultado[e['game']['value']] = e['result']['value']
         estadio[e['game']['value']] = e['stadium']['value']
         quando[e['game']['value']] = e['when']['value']
+        aux = e['result']['value'].split("-")
+
+        if int(aux[0])>int(aux[1]):
+            ganhou[e['game']['value']]=1
+        elif int(aux[0])<int(aux[1]):
+            ganhou[e['game']['value']] = 2
+        else:
+            ganhou[e['game']['value']] = 0
     
     rounds = dict()
 
@@ -108,6 +119,7 @@ def jogos(request):
         'estadio': estadio,
         'quando': quando,
         'rr' :rounds,
+        'ganhou' : ganhou,
     }
     print(tparams)
     return render(request, 'jogos.html', tparams)
@@ -155,9 +167,11 @@ def jogadores(request):
     return render(request, 'index.html', tparams)
 
 def main (request):
-	return render(request, 'layout.html', {})
+	return render(request, 'index.html', {})
 
-
+def req (request):
+    print(request.POST.get('myInput'))
+    return render(request, 'index.html', {})
 
 @register.filter
 def get_item(dictionary, key):
