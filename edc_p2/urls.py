@@ -19,7 +19,7 @@ from app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.wikidata, name='jogadores'),
+    path('', views.infoclube, name='jogadores'),
     path('tabela', views.tabela, name='tabela'),
     path('jogos', views.jogos, name='jogos'),
     path('jogadores', views.jogadores, name='jogadores'),

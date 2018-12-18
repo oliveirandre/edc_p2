@@ -178,25 +178,25 @@ def jogadores(request):
 def main (request):
 	return render(request, 'index.html', {})
 
-def wikidata(request):
-    sparql = SPARQLWrapper("https://query.wikidata.org/")
-    sparql.setQuery("""
-                    SELECT ?itemLabel WHERE {
-                      {
-                      ?item wdt:P31 wd:Q476028.
-                      SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
-                      }
-                      {
-                      ?item wdt:P118 wd:Q9448
-                      }
-                    }
-                    """)
-    sparql.setReturnFormat(JSON)
-    res = sparql.query().convert()
-    print(res)
-    for res in res['results']['bindings']:
-        print(res['label']['value'])
-    return render(request, 'layout.html', {})
+#def wikidata(request):
+#    sparql = SPARQLWrapper("https://query.wikidata.org/")
+#    sparql.setQuery("""
+#                    SELECT ?itemLabel WHERE {
+#                      {
+#                      ?item wdt:P31 wd:Q476028.
+#                      SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+#                      }
+#                      {
+#                      ?item wdt:P118 wd:Q9448
+#                      }
+#                    }
+#                    """)
+#    sparql.setReturnFormat(JSON)
+#    res = sparql.query().convert()
+#    print(res)
+#    for res in res['results']['bindings']:
+#        print(res['label']['value'])
+#    return render(request, 'layout.html', {})
 
 def req (request):
     print(request.POST.get('myInput'))
@@ -258,6 +258,49 @@ def jogo (request):
         'ganhou': ganhou,
     }
     return render(request, 'jogo.html', tparams)
+
+
+def infoclube(request):
+    #pesquisa na base de dados o link para a entidade correspondente na wikidata
+    team = "Liverpool"
+    endpoint = "http://localhost:7200"
+    repo_name = "football"
+    client = ApiClient(endpoint=endpoint)
+    acessor = GraphDBApi(client)
+    query = """
+            PREFIX fut:<http://worldfootball.org/pred/table/>
+            SELECT ?link ?name
+            WHERE {
+                ?team fut:team ?name .
+                ?team fut:link ?link 
+            }
+            """
+    payload_query = {"query": query}
+    res = acessor.sparql_select(body=payload_query, repo_name=repo_name)
+    res = json.loads(res)
+    for e in res['results']['bindings']:
+        if(e['name']['value'] == team):
+            wikidata = e['link']['value']
+            print(wikidata)
+
+    #em runtime aplica a query sobre a wikidata para obter informação
+    sparql = SPARQLWrapper("http://query.wikidata.org/sparql")
+    sparql.setQuery("""
+                    SELECT DISTINCT  ?item ?itemLabel ?itemDescription
+                    WHERE
+                      { ?item wdt:P31 wd:Q476028.
+                        FILTER ( ?item = <http://www.wikidata.org/entity/Q1130849> )    
+                        SERVICE wikibase:label { bd:serviceParam wikibase:language  "en". }
+                      }
+                    """)
+    sparql.setReturnFormat(JSON)
+    results = sparql.query().convert()
+
+    for result in results["results"]["bindings"]:
+        print(result)
+
+    return render(request, 'layout.html', {})
+
 
 @register.filter
 def get_item(dictionary, key):
