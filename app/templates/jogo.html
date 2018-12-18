@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block content %}
+
+			<!-- Header -->
+			<header id="header">
+				<h2>
+
+                    {% if ganhou == 1 %}
+                            <div class="col-6 col-12-medium">
+                                 <font style="color: #2fd444">{{ casa }}</font>  <font style="color: #171a1d">{{ resultado }}</font> <font style="color:red">{{ fora }}</font>
+                            </div>
+                        {% endif %}
+
+                        {% if ganhou == 2 %}
+                            <div class="col-6 col-12-medium">
+                                <font style="color: red">{{ casa }}</font>  <font style="color: #171a1d">{{ resultado }}</font> <font style="color:#2fd444">{{ fora }}</font>
+                            </div>
+                        {% endif %}
+
+                        {% if ganhou == 0 %}
+                            <div class="col-6 col-12-medium">
+                                 <font style="color: #062c33">{{ casa }}</font> <font style="color: #171a1d">{{ resultado }}</font> <font style="color: #062c33">{{ fora }}</font>
+                            </div>
+                        {% endif %}
+                </h2>
+			</header>
+		    </br>
+			
+			<div class="row">
+                <div class="col-12-large-b" align="left">
+                    <h3>Jornada : {{ ronda }}</h3>
+                    <h3>Estadio : {{ estadio }}</h3>
+                    <h3>Data : {{ quando }}</h3>
+
+                </div>
+		</div>
+
+
+{% endblock %}

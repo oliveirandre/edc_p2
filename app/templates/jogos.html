@@ -18,23 +18,23 @@
 					
 					{%  for k,v in ronda.items %}
 					{% if t == v %}
-					{% with y=casa|get_item:k y1=fora|get_item:k y3=resultado|get_item:k y4=estadio|get_item:k y5=quando|get_item:k g=ganhou|get_item:k %}
+					{% with y=casa|get_item:k y1=fora|get_item:k y3=resultado|get_item:k y4=estadio|get_item:k y5=quando|get_item:k g=ganhou|get_item:k i=id|get_item:k %}
 
                         {% if g == 1 %}
                             <div class="col-6 col-12-medium">
-                                <a class="button" style="width: 330px"> <font style="color: #2fd444">{{ y }}</font>  <font style="color: #171a1d">{{ y3 }}</font> <font style="color:red">{{ y1 }}</font></a>
+                                <a class="button" style="width: 330px" href="jogo?id={{ i }}"> <font style="color: #2fd444">{{ y }}</font>  <font style="color: #171a1d">{{ y3 }}</font> <font style="color:red">{{ y1 }}</font></a>
                             </div>
                         {% endif %}
 
                         {% if g == 2 %}
                             <div class="col-6 col-12-medium">
-                                <a class="button" style="width: 330px"> <font style="color: red">{{ y }}</font>  <font style="color: #171a1d">{{ y3 }}</font> <font style="color:#2fd444">{{ y1 }}</font></a>
+                                <a class="button" style="width: 330px" href="jogo?id={{ i }}"> <font style="color: red">{{ y }}</font>  <font style="color: #171a1d">{{ y3 }}</font> <font style="color:#2fd444">{{ y1 }}</font></a>
                             </div>
                         {% endif %}
 
                         {% if g == 0 %}
                             <div class="col-6 col-12-medium">
-                                <a class="button" style="width: 330px"> <font style="color: #062c33">{{ y }}</font> <font style="color: #171a1d">{{ y3 }}</font> <font style="color: #062c33">{{ y1 }}</font></a>
+                                <a class="button" style="width: 330px" href="jogo?id={{ i }}"> <font style="color: #062c33">{{ y }}</font> <font style="color: #171a1d">{{ y3 }}</font> <font style="color: #062c33">{{ y1 }}</font></a>
                             </div>
                         {% endif %}
 

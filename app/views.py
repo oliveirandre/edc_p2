@@ -3,6 +3,7 @@ import json
 from s4api.graphdb_api import GraphDBApi
 from s4api.swagger import ApiClient
 from django.template.defaulttags import register
+from SPARQLWrapper import  SPARQLWrapper,JSON
 
 
 # Create your views here.
@@ -73,7 +74,7 @@ def jogos(request):
     repo_name = "football"
     client = ApiClient(endpoint=endpoint)
     acessor = GraphDBApi(client)
-
+    id = dict()
     query = """
             PREFIX fut:<http://worldfootball.org/pred/>
             SELECT ?game ?roundnumber ?home ?away ?result ?stadium ?when
@@ -99,9 +100,11 @@ def jogos(request):
         quando[e['game']['value']] = e['when']['value']
         aux = e['result']['value'].split("-")
 
-        if int(aux[0])>int(aux[1]):
-            ganhou[e['game']['value']]=1
-        elif int(aux[0])<int(aux[1]):
+        aux2 = e['game']['value'].split('/')
+        id[e['game']['value']] = aux2[len(aux2)-1]
+        if int(aux[0]) > int(aux[1]):
+            ganhou[e['game']['value']] = 1
+        elif int(aux[0]) < int(aux[1]):
             ganhou[e['game']['value']] = 2
         else:
             ganhou[e['game']['value']] = 0
@@ -109,7 +112,7 @@ def jogos(request):
     rounds = dict()
 
     for e in range(16):
-        rounds[e]=str(e+1)
+        rounds[e] = str(e+1)
 
     tparams = {
         'ronda': ronda,
@@ -118,8 +121,9 @@ def jogos(request):
         'resultado': resultado,
         'estadio': estadio,
         'quando': quando,
-        'rr' :rounds,
-        'ganhou' : ganhou,
+        'rr': rounds,
+        'ganhou': ganhou,
+        'id': id
     }
     print(tparams)
     return render(request, 'jogos.html', tparams)
@@ -150,7 +154,12 @@ def jogadores(request):
     res = acessor.sparql_select(body=payload_query, repo_name=repo_name)
     res = json.loads(res)
     for e in res['results']['bindings']:
-        nome[e['id']['value']] = e['name']['value']
+        aux=e['name']['value'].split(" ")
+        if len(aux)>1:
+            nome[e['id']['value']] = aux[1]
+        else:
+            nome[e['id']['value']] = aux[0]
+
         nacionalidade[e['id']['value']] = e['nationality']['value']
         posicao[e['id']['value']] = e['position']['value']
         clube[e['id']['value']] = e['club']['value']
@@ -164,15 +173,96 @@ def jogadores(request):
         'idade': idade
     }
     print(tparams)
-    return render(request, 'index.html', tparams)
+    return render(request, 'jogadores.html', tparams)
 
 def main (request):
 	return render(request, 'index.html', {})
+
+def wikidata(request):
+    sparql = SPARQLWrapper("https://query.wikidata.org/")
+    sparql.setQuery("""
+                    SELECT ?itemLabel WHERE {
+                      {
+                      ?item wdt:P31 wd:Q476028.
+                      SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+                      }
+                      {
+                      ?item wdt:P118 wd:Q9448
+                      }
+                    }
+                    """)
+    sparql.setReturnFormat(JSON)
+    res = sparql.query().convert()
+    print(res)
+    for res in res['results']['bindings']:
+        print(res['label']['value'])
+    return render(request, 'layout.html', {})
 
 def req (request):
     print(request.POST.get('myInput'))
     return render(request, 'index.html', {})
 
+def jogo (request):
+    endpoint = "http://localhost:7200"
+    repo_name = "football"
+    client = ApiClient(endpoint=endpoint)
+    acessor = GraphDBApi(client)
+
+    query = """
+                PREFIX fut:<http://worldfootball.org/pred/>
+                SELECT ?game ?roundnumber ?home ?away ?result ?stadium ?when
+                WHERE {{
+                    ?game <http://worldfootball.org/pred/game/Round_Number> ?roundnumber .
+                    ?game fut:gameHome_Team ?home .
+                    ?game fut:gameAway_Team? ?away .
+                    ?game fut:gameResult ?result .
+                    ?game fut:gameLocation ?stadium .
+                    ?game fut:gameDate ?when .
+                    filter( ?game=<http://worldfootball.org/data/game/{0}>)
+                }}
+                ORDER BY(?roundnumber)
+                """.format(str(request.GET['id']))
+
+    payload_query = {"query": query}
+    res = acessor.sparql_select(body=payload_query, repo_name=repo_name)
+    res = json.loads(res)
+    for e in res['results']['bindings']:
+        ronda = e['roundnumber']['value']
+        casa = e['home']['value']
+        fora = e['away']['value']
+        resultado = e['result']['value']
+        estadio = e['stadium']['value']
+        quando = e['when']['value']
+        aux = e['result']['value'].split("-")
+
+        if int(aux[0]) > int(aux[1]):
+            ganhou = 1
+        elif int(aux[0]) < int(aux[1]):
+            ganhou = 2
+        else:
+            ganhou = 0
+
+    rounds = dict()
+
+    for e in range(16):
+        rounds[e] = str(e + 1)
+
+    tparams = {
+        'ronda': ronda,
+        'casa': casa,
+        'fora': fora,
+        'resultado': resultado,
+        'estadio': estadio,
+        'quando': quando,
+        'rr': rounds,
+        'ganhou': ganhou,
+    }
+    return render(request, 'jogo.html', tparams)
+
 @register.filter
 def get_item(dictionary, key):
     return dictionary.get(key)
+
+@register.filter
+def change(value):
+    return value.replace("+"," ")
