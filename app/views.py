@@ -33,8 +33,10 @@ def tabela(request):
                 ?team fut:hd ?hd .
                 ?team fut:hl ?hl .
                 ?team fut:dif ?goaldif.
-                ?team fut:link ?link
+                ?team fut:link ?link.
+               
             }
+             ORDER BY ASC (xsd:nonNegativeInteger(?pos))
             """
     payload_query = {"query": query}
     res = acessor.sparql_select(body = payload_query, repo_name = repo_name)
@@ -639,7 +641,7 @@ def edit(request):
     payload_query = {"update": query2}
     res2 = acessor.sparql_update(body=payload_query, repo_name=repo_name)
 
-    return render(request, 'layout.html',{})
+    return HttpResponseRedirect('/tabela')
 
 def jogador (request):
     endpoint = "http://localhost:7200"
