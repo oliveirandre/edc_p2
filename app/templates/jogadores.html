@@ -10,8 +10,8 @@
 			<div class="row">
                 <div class="col-12-large-b" align="center">
 					{%  for k,v in nome.items %}
-					{% with y=nacionalidade|get_item:k y1=posicao|get_item:k y3=clube|get_item:k y4=idade|get_item:k %}
-                        <button class="costum" ><font style="color: #171a1d;LINE-HEIGHT:20px;font-size: 1.1em;">{{ v }} <br /> <font style="font-size: 0.8em; font-weight: 400;"> {{ y1 }} </font><br /> <font style="font-size: 0.8em; font-weight: 400;">{{ y3|change }} </font></font></button>
+					{% with y=nacionalidade|get_item:k y1=posicao|get_item:k y3=clube|get_item:k y4=idade|get_item:k i=id|get_item:k %}
+                        <button class="costum" onclick="window.location.href='jogador?id={{ i }}'"><font style="color: #171a1d;LINE-HEIGHT:20px;font-size: 1.1em;">{{ v }} <br /> <font style="font-size: 0.8em; font-weight: 400;"> {{ y1 }} </font><br /> <font style="font-size: 0.8em; font-weight: 400;">{{ y3|change }} </font></font></button>
 					{% endwith %}
 					{% endfor %}
                 </div>

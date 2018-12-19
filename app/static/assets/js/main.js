@@ -370,7 +370,8 @@ autocomplete(document.getElementById("myInput"), countries);
 var input = document.getElementById("myInput");
 input.addEventListener("keyup", function(event) {
   event.preventDefault();
-  if (event.keyCode === 13) {
+  if (event.keyCode === 13 || event.button === 0 ) {
     document.getElementById("myBtn").click();
   }
 });
+

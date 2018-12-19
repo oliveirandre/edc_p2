@@ -19,11 +19,15 @@ from app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.infoclube, name='jogadores'),
+    path('', views.main, name='jogadores'),
     path('tabela', views.tabela, name='tabela'),
     path('jogos', views.jogos, name='jogos'),
     path('jogadores', views.jogadores, name='jogadores'),
     path('jogo', views.jogo, name='jogo'),
+    path('jogador', views.jogador, name='jogador'),
+    path('equipa', views.infoclube, name='equipa'),
+    path('editar_equipa', views.edit_club, name='editar_equipa'),
+    path('edit', views.edit, name='edit'),
     path('req', views.req, name='req')
 
 ]

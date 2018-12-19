@@ -1,0 +1,84 @@
+{% extends "layout.html" %}
+{% block content %}
+
+			<!-- Header -->
+			<header id="header">
+				<h2>
+
+                    <div class="col-6 col-12-medium">
+                        {{ nome }} - Editar
+                    </div>
+
+
+                </h2>
+			</header>
+		    </br>
+
+			<div class="row">
+                <form method="post" action="/edit">
+                    {% csrf_token %}
+                <div class="col-6 col-12-medium">
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Posição</h3>
+                        <input type="number" name="posicaoclube" id="pos" value="{{ posicaoclube }}" placeholder="Posicao" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Pontos</h3>
+                        <input type="number" name="pontos" id="pont" value="{{ pontos }}" placeholder="Pontos" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Vitórias</h3>
+                        <input type="number" name="vitorias" id="vit" value="{{ vitorias }}" placeholder="Vitorias" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Empates</h3>
+                        <input type="number" name="empates" id="emp" value="{{ empates }}" placeholder="Empates" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Derrotas</h3>
+                        <input type="number" name="derrotas" id="derr" value="{{ derrotas }}" placeholder="Derrotas" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall">
+                        <h3>Golos</h3>
+                        <input type="number" name="golos" id="golos_" value="{{ golos }}" placeholder="Golos" required/>
+                    </div>
+
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <input type="text" name="Nome" id="Nome" value="{{ nome }}"  />
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <input type="text" name="id" id="id" value="{{ id }}"  />
+                    </div>
+
+
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Posição</h3>
+                        <input type="number" name="posicaoclube_" id="pos_" value="{{ posicaoclube }}" placeholder="Posicao" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Pontos</h3>
+                        <input type="number" name="pontos_" id="pont_" value="{{ pontos }}" placeholder="Pontos" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Vitórias</h3>
+                        <input type="number" name="vitorias_" id="vit_" value="{{ vitorias }}" placeholder="Vitorias" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Empates</h3>
+                        <input type="number" name="empates_" id="emp_" value="{{ empates }}" placeholder="Empates" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Derrotas</h3>
+                        <input type="number" name="derrotas_" id="derr_" value="{{ derrotas }}" placeholder="Derrotas" required/>
+                    </div>
+                    <div class="col-6 col-12-xsmall" style="display: none">
+                        <h3>Golos</h3>
+                        <input type="number" name="golos_" id="golos_" value="{{ golos }}" placeholder="Golos" required/>
+                    </div>
+
+                </div>
+                    <button >Submeter</button>
+            </form>
+            </div>
+
+{% endblock %}

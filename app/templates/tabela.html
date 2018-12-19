@@ -17,19 +17,21 @@
 							<th>Derrotas</th>
 							<th>Golos</th>
 							<th>Pontos</th>
+                            <th></th>
 						</tr>
 					</thead>
 					<tbody>
 							{%  for k,v in nomeclube.items %}
-							{% with y=vitorias|get_item:k y1=empates|get_item:k y3=derrotas|get_item:k y4=posicaoclube|get_item:k y5=golos|get_item:k y6=pontos|get_item:k %}
+							{% with y=vitorias|get_item:k y1=empates|get_item:k y3=derrotas|get_item:k y4=posicaoclube|get_item:k y5=golos|get_item:k y6=pontos|get_item:k i=link|get_item:k %}
 							<tr>
 									<td>{{ y4 }}</td>
-									<td>{{ v }}</td>
+									<td><a href="equipa?entity={{ i }}">{{ v }}</a></td>
 									<td>{{ y }}</td>
 									<td>{{ y1 }}</td>
 									<td>{{ y3 }}</td>
 									<td>{{ y5 }}</td>
 									<td>{{ y6 }}</td>
+                                    <td><a class="button" href="editar_equipa?entity={{ i }}">Editar</a></td>
 							</tr>
 							{% endwith %}
 							{% endfor %}

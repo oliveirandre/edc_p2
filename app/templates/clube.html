@@ -1,0 +1,70 @@
+{% extends "layout.html" %}
+{% block content %}
+
+			<!-- Header -->
+			<header id="header">
+				<h2>
+
+                    <div class="col-6 col-12-medium">
+                        {{ nome }}
+                    </div>
+
+
+                </h2>
+			</header>
+		    </br>
+			
+			<div class="row">
+                <div class="col-12-large-b" align="left">
+                    <h3>Cidade : {{ cidade }}</h3>
+                    <h3>Criação : {{ data }}</h3>
+                    <h3>Treinador : {{ treinador }}</h3>
+                    <h3>WebSite :<a href="{{ site }}"> {{ site }} </a></h3>
+                </div>
+            
+            </div>
+        <div class="row">
+            <div class="col-6 " align="right">
+                <div class="table-wrapper">
+                    <table class="alt">
+                        <thead>
+                            <tr>
+                                <th>Posicao</th>
+                                <th>Vitórias</th>
+                                <th>Empates</th>
+                                <th>Derrotas</th>
+                                <th>Golos</th>
+                                <th>Pontos</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                        <td>{{ posicaoclube }}</td>
+                                        <td>{{ vitorias }}</td>
+                                        <td>{{ empates }}</td>
+                                        <td>{{ derrotas }}</td>
+                                        <td>{{ golos }}</td>
+                                        <td>{{ pontos }}</td>
+                                </tr>
+
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    {% if imageS != "" %}
+      <h2>Estádio</h2>
+    <div class="row">
+
+        <img src="{{ imageS }}" width="600px">
+
+        <div class="col-6 " >
+            <h3>Nome:  {{ estadio }}</h3>
+
+            <h3>Capacidade: {{ capacidade }}</h3>
+     </div>
+    </div>
+    {% endif %}
+
+{% endblock %}

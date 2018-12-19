@@ -895,11 +895,12 @@ input, select, textarea {
 				}
 
 				.row > .col-7-large {
+					 padding-left: 1000px;
 					width: 58.3333333333%;
 				}
 
 				.row > .off-7-large {
-					margin-left: 58.3333333333%;
+					margin-left:80.3333333333%;
 				}
 
 				.row > .col-8-large {
